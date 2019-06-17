@@ -4558,3 +4558,621 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.17-14.52.56:186][ 24]SourceControl:  delete mode 100644 Content/SK_Human.uasset
 [2019.06.17-14.52.56:199][ 24]SourceControl: Commited [master 625c838] 4.
 [2019.06.17-14.52.58:317][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-14.53.48:105][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-14.54.57:274][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-14.55.25:570][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-14.56.28:266][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-14.58.00:952][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-14.58.37:362][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-14.59.25:728][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.02.14:313][207]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.17-15.02.14:313][207]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.17-15.03.45:652][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.06.17-15.03.45:652][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/NewMap' took 0.041
+[2019.06.17-15.03.45:653][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_FireWeapons] ([1] browsable assets)...
+[2019.06.17-15.03.45:653][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_FireWeapons]
+[2019.06.17-15.03.45:702][610]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_FireWeapons_Auto9BA25CC7F4584DECD6F35C9B7B11159CF.tmp' to '../../../../../../Users/pc/Desktop/howext/Saved/Autosaves/Game/Blueprints/Weapons/BP_FireWeapons_Auto9.uasset'
+[2019.06.17-15.03.45:703][610]LogFileHelpers: Auto-saving content packages took 0.050
+[2019.06.17-15.13.55:537][541]BlueprintLog: New page: Compile BP_FireWeapons
+[2019.06.17-15.13.55:822][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.06.17-15.13.56:462][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.13.56:468][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_FireWeapons" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset" SILENT=true
+[2019.06.17-15.13.56:541][588]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_FireWeapons8F387A79445914A6E17F5DBCEE0FB778.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset'
+[2019.06.17-15.14.16:924][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.14.26:631][201]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(326)].
+[2019.06.17-15.14.26:732][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.06.17-15.14.26:732][201]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/NewMap' took 0.042
+[2019.06.17-15.14.26:734][201]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Weapons/BP_Weapon_AutoRifles] ([1] browsable assets)...
+[2019.06.17-15.14.26:758][201]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Weapons/BP_Weapon_AutoRifles.BP_Weapon_AutoRifles]
+[2019.06.17-15.14.26:758][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Weapon_AutoRifles]
+[2019.06.17-15.14.26:805][201]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_Weapon_AutoRifles_Auto070A3DDD54DC1423350B9C98F929ADD10.tmp' to '../../../../../../Users/pc/Desktop/howext/Saved/Autosaves/Game/Blueprints/Weapons/BP_Weapon_AutoRifles_Auto0.uasset'
+[2019.06.17-15.14.26:807][201]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_FireWeapons] ([1] browsable assets)...
+[2019.06.17-15.14.26:807][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_FireWeapons]
+[2019.06.17-15.14.26:859][201]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_FireWeapons_Auto04357A5564E755BFE8C2DE19B5F6FE8C2.tmp' to '../../../../../../Users/pc/Desktop/howext/Saved/Autosaves/Game/Blueprints/Weapons/BP_FireWeapons_Auto0.uasset'
+[2019.06.17-15.14.26:860][201]LogFileHelpers: Auto-saving content packages took 0.126
+[2019.06.17-15.18.20:507][936]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.17-15.19.13:597][106]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.055 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.17-15.19.13:924][107]BlueprintLog: New page: Compile BP_FireWeapons
+[2019.06.17-15.19.14:172][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.06.17-15.19.14:746][145]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.19.14:753][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_FireWeapons" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset" SILENT=true
+[2019.06.17-15.19.14:811][145]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_FireWeapons833D75314CF46A6647DA22B2D634119D.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset'
+[2019.06.17-15.19.38:087][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.23.31:952][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.23.31:959][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_FireWeapons" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset" SILENT=true
+[2019.06.17-15.23.32:034][754]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_FireWeaponsBD11B22F4F6D46FC129B0685FF39A8A7.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset'
+[2019.06.17-15.23.36:157][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.23.36:236][957]BlueprintLog: New page: Compile BP_FireWeapons
+[2019.06.17-15.23.36:461][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.06.17-15.23.37:282][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.23.37:287][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_FireWeapons" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset" SILENT=true
+[2019.06.17-15.23.37:343][ 24]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_FireWeapons5E825D12463F0FCEBA15C4BCB29997B7.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset'
+[2019.06.17-15.23.38:610][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.23.40:527][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.23.50:664][427]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2019.06.17-15.24.07:245][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.24.09:188][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.24.09:451][260]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.06.17-15.24.12:353][260]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.17-15.25.19:638][972]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.17-15.25.19:644][972]LogSlate: Window 'Project Settings' being destroyed
+[2019.06.17-15.25.23:947][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.25.24:207][357]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2019.06.17-15.25.24:207][357]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/NewMap' took 0.233
+[2019.06.17-15.25.24:209][357]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Weapons/BP_Weapon_AutoRifles] ([1] browsable assets)...
+[2019.06.17-15.25.24:231][357]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Weapons/BP_Weapon_AutoRifles.BP_Weapon_AutoRifles]
+[2019.06.17-15.25.24:231][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Weapon_AutoRifles]
+[2019.06.17-15.25.24:283][357]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_Weapon_AutoRifles_Auto1EF13B632462A3ABB8CA000AC712A2C0D.tmp' to '../../../../../../Users/pc/Desktop/howext/Saved/Autosaves/Game/Blueprints/Weapons/BP_Weapon_AutoRifles_Auto1.uasset'
+[2019.06.17-15.25.24:285][357]LogFileHelpers: Auto-saving content packages took 0.076
+[2019.06.17-15.25.26:757][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.31.30:759][858]BlueprintLog: New page: Compile BP_FireWeapons
+[2019.06.17-15.31.31:055][858]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2019.06.17-15.31.31:527][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.31.31:532][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_FireWeapons" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset" SILENT=true
+[2019.06.17-15.31.31:599][883]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_FireWeapons1B0E96744CFD4EA6FFE620A451853488.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset'
+[2019.06.17-15.31.35:586][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.31.52:113][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.35.36:701][473]BlueprintLog: New page: Compile BP_FireWeapons
+[2019.06.17-15.35.36:958][473]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2019.06.17-15.35.37:483][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.35.37:488][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_FireWeapons" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset" SILENT=true
+[2019.06.17-15.35.37:545][513]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_FireWeaponsDF9AE5464C4E2399FB36E484B38B6804.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset'
+[2019.06.17-15.35.38:538][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.35.39:695][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.35.39:753][741]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.17-15.35.39:785][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.35.39:785][741]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.17-15.35.39:801][741]LogPlayLevel: [PlayLevel] Compiling BP_Weapon before play...
+[2019.06.17-15.35.39:802][741]LogPlayLevel: [PlayLevel]   Compiling BP_FireWeapons as a dependent...
+[2019.06.17-15.35.39:802][741]LogPlayLevel: [PlayLevel]   Compiling BP_Weapon_AutoRifles as a dependent...
+[2019.06.17-15.35.40:081][741]LogPlayLevel: [PlayLevel] Compiling BP_WeaponManager before play...
+[2019.06.17-15.35.40:324][741]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2019.06.17-15.35.40:647][741]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.06.17-15.35.40:647][741]LogPlayLevel: PlayLevel: Blueprint regeneration took 862 ms (5 blueprints)
+[2019.06.17-15.35.40:648][741]PIE: New page: PIE session: NewMap (18 июня 2019 г., 7:35:40)
+[2019.06.17-15.35.40:648][741]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_1_NewMap
+[2019.06.17-15.35.40:655][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006660s)
+[2019.06.17-15.35.40:657][741]LogAIModule: Creating AISystem for world NewMap
+[2019.06.17-15.35.40:657][741]LogPlayLevel: PIE: World Init took: (0.001930s)
+[2019.06.17-15.35.40:657][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/NewMap.NewMap to /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap (0.009417s)
+[2019.06.17-15.35.40:704][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.06.17-15.35.40:704][741]LogLoad: Game class is 'BP_BaseGamemode_C'
+[2019.06.17-15.35.40:706][741]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap up for play (max tick rate 0) at 2019.06.17-23.35.40
+[2019.06.17-15.35.40:706][741]LogWorld: Bringing up level for play took: 0.000908
+[2019.06.17-15.35.40:707][741]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.35.40:707][741]LogTemp: Display: ParseSettings for IpNetDriver_33
+[2019.06.17-15.35.40:707][741]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.35.40:707][741]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.06.17-15.35.40:707][741]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.06.17-15.35.40:707][741]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.06.17-15.35.40:708][741]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.35.40:708][741]LogNet: GameNetDriver IpNetDriver_33 IpNetDriver listening on port 17777
+[2019.06.17-15.35.40:708][741]PIE: Play in editor start time for /Game/Assets/Maps/UEDPIE_1_NewMap -0,133
+[2019.06.17-15.35.40:738][741]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.17-15.35.40:760][741]LogInit: FAudioDevice initialized.
+[2019.06.17-15.35.40:775][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.35.40:804][741]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.06.17-15.35.40:804][741]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.35.40:804][741]LogTemp: Display: ParseSettings for IpNetDriver_34
+[2019.06.17-15.35.40:805][741]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.06.17-15.35.40:805][741]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.06.17-15.35.40:806][741]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.35.40:806][741]LogNet: Game client on port 17777, rate 10000
+[2019.06.17-15.35.40:892][741]PIE: Play in editor start time for /Game/Assets/Maps/NewMap 0,05
+[2019.06.17-15.35.40:902][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.35.40:910][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.35.40:943][741]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.06.17-15.35.40:943][741]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.35.40:943][741]LogTemp: Display: ParseSettings for IpNetDriver_35
+[2019.06.17-15.35.40:943][741]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.06.17-15.35.40:943][741]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.06.17-15.35.40:945][741]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.35.40:945][741]LogNet: Game client on port 17777, rate 10000
+[2019.06.17-15.35.40:948][741]PIE: Play in editor start time for /Game/Assets/Maps/NewMap 0,106
+[2019.06.17-15.35.40:952][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.35.40:952][741]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49992
+[2019.06.17-15.35.40:952][741]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 132156146178012132209194012025132037014246225100225188217173
+[2019.06.17-15.35.40:952][741]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49993
+[2019.06.17-15.35.40:952][741]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 207194071029234187011237047186067104228103030062215239092027
+[2019.06.17-15.35.40:965][741]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 132156146178012132209194012025132037014246225100225188217173
+[2019.06.17-15.35.40:967][741]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 207194071029234187011237047186067104228103030062215239092027
+[2019.06.17-15.35.40:994][742]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49992
+[2019.06.17-15.35.40:994][742]LogHandshake: SendChallengeAck. InCookie: 132156146178012132209194012025132037014246225100225188217173
+[2019.06.17-15.35.40:994][742]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49992
+[2019.06.17-15.35.40:994][742]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.35.40:994][742]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 06/17/19 23:35:40, [UNetConnection] RemoteAddr: 127.0.0.1:49992, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.35.40:994][742]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49992, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.35.40:994][742]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49993
+[2019.06.17-15.35.40:995][742]LogHandshake: SendChallengeAck. InCookie: 207194071029234187011237047186067104228103030062215239092027
+[2019.06.17-15.35.40:995][742]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49993
+[2019.06.17-15.35.40:995][742]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.35.40:995][742]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 06/17/19 23:35:40, [UNetConnection] RemoteAddr: 127.0.0.1:49993, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.35.40:995][742]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49993, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.35.40:996][742]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_44, Driver: PendingNetDriver IpNetDriver_34, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.35.40:996][742]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_45, Driver: PendingNetDriver IpNetDriver_35, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.35.41:068][743]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.06.17-15.35.41:069][743]LogNet: Remote platform little endian=1
+[2019.06.17-15.35.41:069][743]LogNet: This platform little endian=1
+[2019.06.17-15.35.41:069][743]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.06.17-15.35.41:069][743]LogNet: Remote platform little endian=1
+[2019.06.17-15.35.41:069][743]LogNet: This platform little endian=1
+[2019.06.17-15.35.41:099][744]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-0934A0EA4D25978714DD83AF4B2A35AF userId: NULL:DESKTOP-DNRRKGJ-0934A0EA4D25978714DD83AF4B2A35AF platform: NULL
+[2019.06.17-15.35.41:099][744]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-C1F96FE444674726CDF215B5B1DBE0F4 userId: NULL:DESKTOP-DNRRKGJ-C1F96FE444674726CDF215B5B1DBE0F4 platform: NULL
+[2019.06.17-15.35.41:100][744]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.06.17-15.35.41:101][744]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.06.17-15.35.41:146][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.06.17-15.35.41:153][744]LogAIModule: Creating AISystem for world NewMap
+[2019.06.17-15.35.41:153][744]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.35.41:154][744]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_2_NewMap.NewMap up for play (max tick rate 0) at 2019.06.17-23.35.41
+[2019.06.17-15.35.41:154][744]LogWorld: Bringing up level for play took: 0.000590
+[2019.06.17-15.35.41:155][744]LogLoad: Took 0.054153 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.06.17-15.35.41:155][744]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.06.17-15.35.41:173][744]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.06.17-15.35.41:217][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.06.17-15.35.41:221][744]LogAIModule: Creating AISystem for world NewMap
+[2019.06.17-15.35.41:222][744]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.35.41:223][744]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_3_NewMap.NewMap up for play (max tick rate 0) at 2019.06.17-23.35.41
+[2019.06.17-15.35.41:223][744]LogWorld: Bringing up level for play took: 0.000456
+[2019.06.17-15.35.41:223][744]LogLoad: Took 0.050740 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.06.17-15.35.41:311][745]LogNet: Client netspeed is 10000
+[2019.06.17-15.35.41:311][745]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-0934A0EA4D25978714DD83AF4B2A35AF?SplitscreenCount=1
+[2019.06.17-15.35.41:311][745]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.35.41:313][745]LogNet: Join succeeded: DESKTOP-DNRRKGJ-0934
+[2019.06.17-15.35.41:313][745]LogNet: Client netspeed is 10000
+[2019.06.17-15.35.41:313][745]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-C1F96FE444674726CDF215B5B1DBE0F4?SplitscreenCount=1
+[2019.06.17-15.35.41:314][745]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.35.41:315][745]LogNet: Join succeeded: DESKTOP-DNRRKGJ-C1F9
+[2019.06.17-15.35.41:393][746]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.35.41:393][746]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.35.41:394][746]LogBlueprintUserMessages: [BP_WeaponManager] Client 1: Weapon attached
+[2019.06.17-15.35.41:394][746]LogBlueprintUserMessages: [BP_WeaponManager] Client 1: Weapon attached
+[2019.06.17-15.35.41:398][746]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.35.41:398][746]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.35.41:399][746]LogBlueprintUserMessages: [BP_WeaponManager] Client 2: Weapon attached
+[2019.06.17-15.35.41:399][746]LogBlueprintUserMessages: [BP_WeaponManager] Client 2: Weapon attached
+[2019.06.17-15.36.08:336][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.36.08:336][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.36.08:350][178]LogSlate: Window 'Howext Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.17-15.36.08:388][178]LogNet: World NetDriver shutdown IpNetDriver_35 [GameNetDriver]
+[2019.06.17-15.36.08:388][178]LogNet: DestroyNamedNetDriver IpNetDriver_35 [GameNetDriver]
+[2019.06.17-15.36.08:388][178]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_45, Driver: GameNetDriver IpNetDriver_35, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-C1F96FE444674726CDF215B5B1DBE0F4, Channels: 13, Time: 2019.06.17-15.36.08
+[2019.06.17-15.36.08:388][178]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_45, Driver: GameNetDriver IpNetDriver_35, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-C1F96FE444674726CDF215B5B1DBE0F4
+[2019.06.17-15.36.08:388][178]LogExit: GameNetDriver IpNetDriver_35 shut down
+[2019.06.17-15.36.08:389][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.36.08:403][178]LogSlate: Window 'Howext Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.17-15.36.08:435][178]LogNet: World NetDriver shutdown IpNetDriver_34 [GameNetDriver]
+[2019.06.17-15.36.08:435][178]LogNet: DestroyNamedNetDriver IpNetDriver_34 [GameNetDriver]
+[2019.06.17-15.36.08:435][178]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_44, Driver: GameNetDriver IpNetDriver_34, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-0934A0EA4D25978714DD83AF4B2A35AF, Channels: 13, Time: 2019.06.17-15.36.08
+[2019.06.17-15.36.08:435][178]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_44, Driver: GameNetDriver IpNetDriver_34, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-0934A0EA4D25978714DD83AF4B2A35AF
+[2019.06.17-15.36.08:435][178]LogExit: GameNetDriver IpNetDriver_34 shut down
+[2019.06.17-15.36.08:437][178]LogNet: World NetDriver shutdown IpNetDriver_33 [GameNetDriver]
+[2019.06.17-15.36.08:437][178]LogNet: DestroyNamedNetDriver IpNetDriver_33 [GameNetDriver]
+[2019.06.17-15.36.08:437][178]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49993, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:DESKTOP-DNRRKGJ-C1F96FE444674726CDF215B5B1DBE0F4
+[2019.06.17-15.36.08:437][178]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49993, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:DESKTOP-DNRRKGJ-C1F96FE444674726CDF215B5B1DBE0F4, Channels: 13, Time: 2019.06.17-15.36.08
+[2019.06.17-15.36.08:437][178]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49993, Name: IpConnection_47, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:DESKTOP-DNRRKGJ-C1F96FE444674726CDF215B5B1DBE0F4
+[2019.06.17-15.36.08:437][178]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49992, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-0934A0EA4D25978714DD83AF4B2A35AF
+[2019.06.17-15.36.08:437][178]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49992, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-0934A0EA4D25978714DD83AF4B2A35AF, Channels: 13, Time: 2019.06.17-15.36.08
+[2019.06.17-15.36.08:437][178]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49992, Name: IpConnection_46, Driver: GameNetDriver IpNetDriver_33, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-0934A0EA4D25978714DD83AF4B2A35AF
+[2019.06.17-15.36.08:437][178]LogExit: GameNetDriver IpNetDriver_33 shut down
+[2019.06.17-15.36.08:438][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-15.36.08:438][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.36.08:523][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.06.17-15.36.08:561][179]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.06.17-15.36.08:561][179]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.06.17-15.36.08:561][179]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.06.17-15.36.33:023][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.06.17-15.36.33:023][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/NewMap' took 0.040
+[2019.06.17-15.36.33:024][320]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Weapons/BP_Weapon_AutoRifles] ([1] browsable assets)...
+[2019.06.17-15.36.33:078][320]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Weapons/BP_Weapon_AutoRifles.BP_Weapon_AutoRifles]
+[2019.06.17-15.36.33:078][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Weapon_AutoRifles]
+[2019.06.17-15.36.33:126][320]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_Weapon_AutoRifles_Auto28BFF28254EDD765280F548B957CF7FEE.tmp' to '../../../../../../Users/pc/Desktop/howext/Saved/Autosaves/Game/Blueprints/Weapons/BP_Weapon_AutoRifles_Auto2.uasset'
+[2019.06.17-15.36.33:128][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_Weapon] ([1] browsable assets)...
+[2019.06.17-15.36.33:128][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Weapon]
+[2019.06.17-15.36.33:177][320]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_Weapon_Auto231D77CA84D97134267DAE7AD3429777B.tmp' to '../../../../../../Users/pc/Desktop/howext/Saved/Autosaves/Game/Blueprints/Weapons/BP_Weapon_Auto2.uasset'
+[2019.06.17-15.36.33:179][320]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_PlayerCharacter] ([1] browsable assets)...
+[2019.06.17-15.36.33:200][320]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter]
+[2019.06.17-15.36.33:200][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerCharacter]
+[2019.06.17-15.36.33:330][320]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_PlayerCharacter_Auto26705AE0B4354BACBB341859F05E26E84.tmp' to '../../../../../../Users/pc/Desktop/howext/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerCharacter_Auto2.uasset'
+[2019.06.17-15.36.33:332][320]LogFileHelpers: Auto-saving content packages took 0.308
+[2019.06.17-15.37.28:978][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.39.02:496][491]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.06.17-15.39.02:801][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.06.17-15.39.03:434][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.39.03:460][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_PlayerCharacter" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2019.06.17-15.39.03:525][539]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_PlayerCharacter052D42F940C4A29C67A052973CACF799.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2019.06.17-15.39.05:108][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.39.06:180][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.39.06:246][832]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.17-15.39.06:275][832]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.39.06:275][832]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.17-15.39.06:277][832]LogPlayLevel: [PlayLevel] Compiling BP_FireWeapons before play...
+[2019.06.17-15.39.06:277][832]LogPlayLevel: [PlayLevel]   Compiling BP_Weapon_AutoRifles as a dependent...
+[2019.06.17-15.39.06:538][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.06.17-15.39.06:538][832]LogPlayLevel: PlayLevel: Blueprint regeneration took 262 ms (2 blueprints)
+[2019.06.17-15.39.06:538][832]PIE: New page: PIE session: NewMap (18 июня 2019 г., 7:39:06)
+[2019.06.17-15.39.06:538][832]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_1_NewMap
+[2019.06.17-15.39.06:541][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002689s)
+[2019.06.17-15.39.06:541][832]LogAIModule: Creating AISystem for world NewMap
+[2019.06.17-15.39.06:541][832]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2019.06.17-15.39.06:542][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/NewMap.NewMap to /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap (0.003591s)
+[2019.06.17-15.39.06:586][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.06.17-15.39.06:586][832]LogLoad: Game class is 'BP_BaseGamemode_C'
+[2019.06.17-15.39.06:588][832]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap up for play (max tick rate 0) at 2019.06.17-23.39.06
+[2019.06.17-15.39.06:588][832]LogWorld: Bringing up level for play took: 0.000588
+[2019.06.17-15.39.06:588][832]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.06:588][832]LogTemp: Display: ParseSettings for IpNetDriver_36
+[2019.06.17-15.39.06:588][832]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.06:588][832]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.06.17-15.39.06:588][832]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.06.17-15.39.06:588][832]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.06.17-15.39.06:589][832]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.06:589][832]LogNet: GameNetDriver IpNetDriver_36 IpNetDriver listening on port 17777
+[2019.06.17-15.39.06:589][832]PIE: Play in editor start time for /Game/Assets/Maps/UEDPIE_1_NewMap -0,253
+[2019.06.17-15.39.06:617][832]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.17-15.39.06:638][832]LogInit: FAudioDevice initialized.
+[2019.06.17-15.39.06:652][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.39.06:687][832]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.06.17-15.39.06:687][832]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.06:688][832]LogTemp: Display: ParseSettings for IpNetDriver_37
+[2019.06.17-15.39.06:688][832]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.06.17-15.39.06:688][832]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.06.17-15.39.06:689][832]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.06:689][832]LogNet: Game client on port 17777, rate 10000
+[2019.06.17-15.39.06:692][832]PIE: Play in editor start time for /Game/Assets/Maps/NewMap -0,15
+[2019.06.17-15.39.06:701][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.39.06:710][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.39.06:742][832]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.06.17-15.39.06:742][832]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.06:742][832]LogTemp: Display: ParseSettings for IpNetDriver_38
+[2019.06.17-15.39.06:742][832]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.06.17-15.39.06:742][832]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.06.17-15.39.06:743][832]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.06:743][832]LogNet: Game client on port 17777, rate 10000
+[2019.06.17-15.39.06:746][832]PIE: Play in editor start time for /Game/Assets/Maps/NewMap -0,096
+[2019.06.17-15.39.06:751][832]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.39.06:752][832]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54031
+[2019.06.17-15.39.06:752][832]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 052161214136133242027212148119226201133051207127072154099224
+[2019.06.17-15.39.06:752][832]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54032
+[2019.06.17-15.39.06:752][832]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 116030209130070195054050029176250215087130147165217056106167
+[2019.06.17-15.39.06:764][832]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 052161214136133242027212148119226201133051207127072154099224
+[2019.06.17-15.39.06:765][832]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 116030209130070195054050029176250215087130147165217056106167
+[2019.06.17-15.39.06:779][833]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54031
+[2019.06.17-15.39.06:779][833]LogHandshake: SendChallengeAck. InCookie: 052161214136133242027212148119226201133051207127072154099224
+[2019.06.17-15.39.06:779][833]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54031
+[2019.06.17-15.39.06:779][833]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.06:779][833]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 06/17/19 23:39:06, [UNetConnection] RemoteAddr: 127.0.0.1:54031, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.06:780][833]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54031, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.06:780][833]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54032
+[2019.06.17-15.39.06:780][833]LogHandshake: SendChallengeAck. InCookie: 116030209130070195054050029176250215087130147165217056106167
+[2019.06.17-15.39.06:780][833]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54032
+[2019.06.17-15.39.06:780][833]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.06:780][833]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 06/17/19 23:39:06, [UNetConnection] RemoteAddr: 127.0.0.1:54032, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.06:780][833]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54032, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.06:780][833]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_48, Driver: PendingNetDriver IpNetDriver_37, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.06:781][833]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_49, Driver: PendingNetDriver IpNetDriver_38, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.06:802][834]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.06.17-15.39.06:802][834]LogNet: Remote platform little endian=1
+[2019.06.17-15.39.06:802][834]LogNet: This platform little endian=1
+[2019.06.17-15.39.06:802][834]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.06.17-15.39.06:802][834]LogNet: Remote platform little endian=1
+[2019.06.17-15.39.06:802][834]LogNet: This platform little endian=1
+[2019.06.17-15.39.06:833][835]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-2328EA6D4601B2C16A6D76820AFB6056 userId: NULL:DESKTOP-DNRRKGJ-2328EA6D4601B2C16A6D76820AFB6056 platform: NULL
+[2019.06.17-15.39.06:833][835]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-0AC37FCA4E834FF91511C58CF22C5520 userId: NULL:DESKTOP-DNRRKGJ-0AC37FCA4E834FF91511C58CF22C5520 platform: NULL
+[2019.06.17-15.39.06:834][835]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.06.17-15.39.06:835][835]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.06.17-15.39.06:874][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.06.17-15.39.06:877][835]LogAIModule: Creating AISystem for world NewMap
+[2019.06.17-15.39.06:878][835]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.06:879][835]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_2_NewMap.NewMap up for play (max tick rate 0) at 2019.06.17-23.39.06
+[2019.06.17-15.39.06:879][835]LogWorld: Bringing up level for play took: 0.000461
+[2019.06.17-15.39.06:879][835]LogLoad: Took 0.044729 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.06.17-15.39.06:880][835]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.06.17-15.39.06:896][835]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.06.17-15.39.06:932][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.06.17-15.39.06:936][835]LogAIModule: Creating AISystem for world NewMap
+[2019.06.17-15.39.06:936][835]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.06:938][835]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_3_NewMap.NewMap up for play (max tick rate 0) at 2019.06.17-23.39.06
+[2019.06.17-15.39.06:938][835]LogWorld: Bringing up level for play took: 0.000516
+[2019.06.17-15.39.06:938][835]LogLoad: Took 0.042464 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.06.17-15.39.06:952][836]LogNet: Client netspeed is 10000
+[2019.06.17-15.39.06:952][836]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-2328EA6D4601B2C16A6D76820AFB6056?SplitscreenCount=1
+[2019.06.17-15.39.06:953][836]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.06:954][836]LogNet: Join succeeded: DESKTOP-DNRRKGJ-2328
+[2019.06.17-15.39.06:954][836]LogNet: Client netspeed is 10000
+[2019.06.17-15.39.06:954][836]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-0AC37FCA4E834FF91511C58CF22C5520?SplitscreenCount=1
+[2019.06.17-15.39.06:954][836]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.06:955][836]LogNet: Join succeeded: DESKTOP-DNRRKGJ-0AC3
+[2019.06.17-15.39.06:989][837]LogBlueprintUserMessages: [BP_WeaponManager] Client 1: Weapon attached
+[2019.06.17-15.39.06:990][837]LogBlueprintUserMessages: [BP_WeaponManager] Client 1: Weapon attached
+[2019.06.17-15.39.06:992][837]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.06:992][837]LogBlueprintUserMessages: [BP_WeaponManager] Client 2: Weapon attached
+[2019.06.17-15.39.07:002][838]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.07:004][838]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.07:004][838]LogBlueprintUserMessages: [BP_WeaponManager] Client 2: Weapon attached
+[2019.06.17-15.39.07:022][839]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.08:769][941]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	BP_Weapon_AutoRifles_C /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap:PersistentLevel.BP_Weapon_AutoRifles_C_0
+	Function /Game/Blueprints/Weapons/BP_FireWeapons.BP_FireWeapons_C:GetFireTrace:00EB
+[2019.06.17-15.39.08:769][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Blueprint:  BP_FireWeapons Function:  Get Fire Trace Graph:  GetFireTrace Node:  LineTraceByChannel
+[2019.06.17-15.39.10:586][ 39]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	BP_Weapon_AutoRifles_C /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap:PersistentLevel.BP_Weapon_AutoRifles_C_0
+	Function /Game/Blueprints/Weapons/BP_FireWeapons.BP_FireWeapons_C:GetFireTrace:00EB
+[2019.06.17-15.39.10:587][ 39]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Blueprint:  BP_FireWeapons Function:  Get Fire Trace Graph:  GetFireTrace Node:  LineTraceByChannel
+[2019.06.17-15.39.11:947][112]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	BP_Weapon_AutoRifles_C /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap:PersistentLevel.BP_Weapon_AutoRifles_C_0
+	Function /Game/Blueprints/Weapons/BP_FireWeapons.BP_FireWeapons_C:GetFireTrace:00EB
+[2019.06.17-15.39.11:947][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Blueprint:  BP_FireWeapons Function:  Get Fire Trace Graph:  GetFireTrace Node:  LineTraceByChannel
+[2019.06.17-15.39.12:968][167]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	BP_Weapon_AutoRifles_C /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap:PersistentLevel.BP_Weapon_AutoRifles_C_0
+	Function /Game/Blueprints/Weapons/BP_FireWeapons.BP_FireWeapons_C:GetFireTrace:00EB
+[2019.06.17-15.39.12:969][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Blueprint:  BP_FireWeapons Function:  Get Fire Trace Graph:  GetFireTrace Node:  LineTraceByChannel
+[2019.06.17-15.39.14:037][225]LogScript: Warning: Accessed None trying to read property CallFunc_GetOwner_ReturnValue
+	BP_Weapon_AutoRifles_C /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap:PersistentLevel.BP_Weapon_AutoRifles_C_0
+	Function /Game/Blueprints/Weapons/BP_FireWeapons.BP_FireWeapons_C:GetFireTrace:00EB
+[2019.06.17-15.39.14:037][225]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetOwner_ReturnValue". Blueprint:  BP_FireWeapons Function:  Get Fire Trace Graph:  GetFireTrace Node:  LineTraceByChannel
+[2019.06.17-15.39.18:643][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.39.18:643][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.39.18:661][480]LogSlate: Window 'Howext Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.17-15.39.18:694][480]LogNet: World NetDriver shutdown IpNetDriver_38 [GameNetDriver]
+[2019.06.17-15.39.18:694][480]LogNet: DestroyNamedNetDriver IpNetDriver_38 [GameNetDriver]
+[2019.06.17-15.39.18:694][480]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_49, Driver: GameNetDriver IpNetDriver_38, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-0AC37FCA4E834FF91511C58CF22C5520, Channels: 13, Time: 2019.06.17-15.39.18
+[2019.06.17-15.39.18:694][480]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_49, Driver: GameNetDriver IpNetDriver_38, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-0AC37FCA4E834FF91511C58CF22C5520
+[2019.06.17-15.39.18:694][480]LogExit: GameNetDriver IpNetDriver_38 shut down
+[2019.06.17-15.39.18:695][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.39.18:709][480]LogSlate: Window 'Howext Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.17-15.39.18:742][480]LogNet: World NetDriver shutdown IpNetDriver_37 [GameNetDriver]
+[2019.06.17-15.39.18:742][480]LogNet: DestroyNamedNetDriver IpNetDriver_37 [GameNetDriver]
+[2019.06.17-15.39.18:742][480]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_48, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-2328EA6D4601B2C16A6D76820AFB6056, Channels: 13, Time: 2019.06.17-15.39.18
+[2019.06.17-15.39.18:742][480]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_48, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-2328EA6D4601B2C16A6D76820AFB6056
+[2019.06.17-15.39.18:742][480]LogExit: GameNetDriver IpNetDriver_37 shut down
+[2019.06.17-15.39.18:743][480]LogNet: World NetDriver shutdown IpNetDriver_36 [GameNetDriver]
+[2019.06.17-15.39.18:743][480]LogNet: DestroyNamedNetDriver IpNetDriver_36 [GameNetDriver]
+[2019.06.17-15.39.18:744][480]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54032, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:DESKTOP-DNRRKGJ-0AC37FCA4E834FF91511C58CF22C5520
+[2019.06.17-15.39.18:744][480]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54032, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:DESKTOP-DNRRKGJ-0AC37FCA4E834FF91511C58CF22C5520, Channels: 13, Time: 2019.06.17-15.39.18
+[2019.06.17-15.39.18:744][480]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54032, Name: IpConnection_51, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:DESKTOP-DNRRKGJ-0AC37FCA4E834FF91511C58CF22C5520
+[2019.06.17-15.39.18:744][480]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:54031, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-2328EA6D4601B2C16A6D76820AFB6056
+[2019.06.17-15.39.18:744][480]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54031, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-2328EA6D4601B2C16A6D76820AFB6056, Channels: 13, Time: 2019.06.17-15.39.18
+[2019.06.17-15.39.18:744][480]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54031, Name: IpConnection_50, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-2328EA6D4601B2C16A6D76820AFB6056
+[2019.06.17-15.39.18:744][480]LogExit: GameNetDriver IpNetDriver_36 shut down
+[2019.06.17-15.39.18:745][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-15.39.18:745][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.39.18:798][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.06.17-15.39.18:814][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.39.18:850][481]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.06.17-15.39.18:850][481]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.06.17-15.39.18:850][481]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.06.17-15.39.20:480][651]LogSlate: Window 'Message Log' being destroyed
+[2019.06.17-15.39.20:486][651]LogSlate: Window 'Message Log' being destroyed
+[2019.06.17-15.39.23:173][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.39.40:717][534]BlueprintLog: New page: Compile BP_FireWeapons
+[2019.06.17-15.39.40:988][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2019.06.17-15.39.41:595][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.39.41:600][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_FireWeapons" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset" SILENT=true
+[2019.06.17-15.39.41:663][572]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_FireWeapons71FBB0C245B01D2C7674EC81689B4348.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_FireWeapons.uasset'
+[2019.06.17-15.39.42:752][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.39.43:602][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.39.43:660][755]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.17-15.39.43:689][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.39.43:689][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.17-15.39.43:689][755]PIE: New page: PIE session: NewMap (18 июня 2019 г., 7:39:43)
+[2019.06.17-15.39.43:689][755]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_1_NewMap
+[2019.06.17-15.39.43:692][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002763s)
+[2019.06.17-15.39.43:693][755]LogAIModule: Creating AISystem for world NewMap
+[2019.06.17-15.39.43:693][755]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2019.06.17-15.39.43:693][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/NewMap.NewMap to /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap (0.003637s)
+[2019.06.17-15.39.43:731][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.06.17-15.39.43:731][755]LogLoad: Game class is 'BP_BaseGamemode_C'
+[2019.06.17-15.39.43:733][755]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap up for play (max tick rate 0) at 2019.06.17-23.39.43
+[2019.06.17-15.39.43:733][755]LogWorld: Bringing up level for play took: 0.000611
+[2019.06.17-15.39.43:733][755]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.43:733][755]LogTemp: Display: ParseSettings for IpNetDriver_39
+[2019.06.17-15.39.43:733][755]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.43:733][755]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.06.17-15.39.43:733][755]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.06.17-15.39.43:733][755]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.06.17-15.39.43:734][755]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.43:734][755]LogNet: GameNetDriver IpNetDriver_39 IpNetDriver listening on port 17777
+[2019.06.17-15.39.43:734][755]PIE: Play in editor start time for /Game/Assets/Maps/UEDPIE_1_NewMap 0,892
+[2019.06.17-15.39.43:763][755]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.17-15.39.43:783][755]LogInit: FAudioDevice initialized.
+[2019.06.17-15.39.43:798][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.39.43:827][755]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.06.17-15.39.43:827][755]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.43:827][755]LogTemp: Display: ParseSettings for IpNetDriver_40
+[2019.06.17-15.39.43:827][755]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.06.17-15.39.43:828][755]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.06.17-15.39.43:828][755]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.43:828][755]LogNet: Game client on port 17777, rate 10000
+[2019.06.17-15.39.43:831][755]PIE: Play in editor start time for /Game/Assets/Maps/NewMap 0,989
+[2019.06.17-15.39.43:840][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.39.43:849][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.39.43:883][755]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.06.17-15.39.43:883][755]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.43:883][755]LogTemp: Display: ParseSettings for IpNetDriver_41
+[2019.06.17-15.39.43:883][755]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.06.17-15.39.43:883][755]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.06.17-15.39.43:884][755]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.43:884][755]LogNet: Game client on port 17777, rate 10000
+[2019.06.17-15.39.43:887][755]PIE: Play in editor start time for /Game/Assets/Maps/NewMap 1,045
+[2019.06.17-15.39.43:892][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.39.43:892][755]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50830
+[2019.06.17-15.39.43:893][755]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 051182020233237068011024087188134066238137035160186126128082
+[2019.06.17-15.39.43:893][755]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50831
+[2019.06.17-15.39.43:893][755]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 023228114008126182232026164212198130133078185177077132240154
+[2019.06.17-15.39.43:905][755]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 051182020233237068011024087188134066238137035160186126128082
+[2019.06.17-15.39.43:906][755]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 023228114008126182232026164212198130133078185177077132240154
+[2019.06.17-15.39.43:920][756]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50830
+[2019.06.17-15.39.43:920][756]LogHandshake: SendChallengeAck. InCookie: 051182020233237068011024087188134066238137035160186126128082
+[2019.06.17-15.39.43:920][756]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50830
+[2019.06.17-15.39.43:920][756]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.43:920][756]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 06/17/19 23:39:43, [UNetConnection] RemoteAddr: 127.0.0.1:50830, Name: IpConnection_54, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.43:920][756]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50830, Name: IpConnection_54, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.43:920][756]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50831
+[2019.06.17-15.39.43:920][756]LogHandshake: SendChallengeAck. InCookie: 023228114008126182232026164212198130133078185177077132240154
+[2019.06.17-15.39.43:920][756]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50831
+[2019.06.17-15.39.43:920][756]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.06.17-15.39.43:920][756]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 06/17/19 23:39:43, [UNetConnection] RemoteAddr: 127.0.0.1:50831, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.43:921][756]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50831, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.43:921][756]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_52, Driver: PendingNetDriver IpNetDriver_40, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.43:921][756]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_53, Driver: PendingNetDriver IpNetDriver_41, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.06.17-15.39.43:943][757]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.06.17-15.39.43:943][757]LogNet: Remote platform little endian=1
+[2019.06.17-15.39.43:943][757]LogNet: This platform little endian=1
+[2019.06.17-15.39.43:943][757]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.06.17-15.39.43:943][757]LogNet: Remote platform little endian=1
+[2019.06.17-15.39.43:944][757]LogNet: This platform little endian=1
+[2019.06.17-15.39.43:974][758]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-CA3681EC49E9C0875E355C9AB6B48793 userId: NULL:DESKTOP-DNRRKGJ-CA3681EC49E9C0875E355C9AB6B48793 platform: NULL
+[2019.06.17-15.39.43:974][758]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-069E2CB44A871968DAC6C79568D34671 userId: NULL:DESKTOP-DNRRKGJ-069E2CB44A871968DAC6C79568D34671 platform: NULL
+[2019.06.17-15.39.43:974][758]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.06.17-15.39.43:975][758]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.06.17-15.39.44:014][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.06.17-15.39.44:018][758]LogAIModule: Creating AISystem for world NewMap
+[2019.06.17-15.39.44:018][758]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.44:020][758]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_2_NewMap.NewMap up for play (max tick rate 0) at 2019.06.17-23.39.44
+[2019.06.17-15.39.44:020][758]LogWorld: Bringing up level for play took: 0.000560
+[2019.06.17-15.39.44:020][758]LogLoad: Took 0.044828 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.06.17-15.39.44:021][758]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.06.17-15.39.44:036][758]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.06.17-15.39.44:073][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.06.17-15.39.44:076][758]LogAIModule: Creating AISystem for world NewMap
+[2019.06.17-15.39.44:076][758]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.06.17-15.39.44:078][758]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_3_NewMap.NewMap up for play (max tick rate 0) at 2019.06.17-23.39.44
+[2019.06.17-15.39.44:078][758]LogWorld: Bringing up level for play took: 0.000513
+[2019.06.17-15.39.44:078][758]LogLoad: Took 0.041978 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.06.17-15.39.44:090][759]LogNet: Client netspeed is 10000
+[2019.06.17-15.39.44:090][759]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-CA3681EC49E9C0875E355C9AB6B48793?SplitscreenCount=1
+[2019.06.17-15.39.44:090][759]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.44:092][759]LogNet: Join succeeded: DESKTOP-DNRRKGJ-CA36
+[2019.06.17-15.39.44:092][759]LogNet: Client netspeed is 10000
+[2019.06.17-15.39.44:092][759]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=DESKTOP-DNRRKGJ-069E2CB44A871968DAC6C79568D34671?SplitscreenCount=1
+[2019.06.17-15.39.44:092][759]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.44:093][759]LogNet: Join succeeded: DESKTOP-DNRRKGJ-069E
+[2019.06.17-15.39.44:128][760]LogBlueprintUserMessages: [BP_WeaponManager] Client 1: Weapon attached
+[2019.06.17-15.39.44:128][760]LogBlueprintUserMessages: [BP_WeaponManager] Client 1: Weapon attached
+[2019.06.17-15.39.44:130][760]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.44:131][760]LogBlueprintUserMessages: [BP_WeaponManager] Client 2: Weapon attached
+[2019.06.17-15.39.44:144][761]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.44:147][761]LogBlueprintUserMessages: [BP_WeaponManager] Client 2: Weapon attached
+[2019.06.17-15.39.44:166][762]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.39.44:167][762]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.06.17-15.40.10:418][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.40.10:418][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.40.10:432][189]LogSlate: Window 'Howext Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.17-15.40.10:470][189]LogNet: World NetDriver shutdown IpNetDriver_41 [GameNetDriver]
+[2019.06.17-15.40.10:470][189]LogNet: DestroyNamedNetDriver IpNetDriver_41 [GameNetDriver]
+[2019.06.17-15.40.10:470][189]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_53, Driver: GameNetDriver IpNetDriver_41, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-069E2CB44A871968DAC6C79568D34671, Channels: 13, Time: 2019.06.17-15.40.10
+[2019.06.17-15.40.10:470][189]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_53, Driver: GameNetDriver IpNetDriver_41, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-069E2CB44A871968DAC6C79568D34671
+[2019.06.17-15.40.10:470][189]LogExit: GameNetDriver IpNetDriver_41 shut down
+[2019.06.17-15.40.10:471][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.17-15.40.10:484][189]LogSlate: Window 'Howext Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.17-15.40.10:517][189]LogNet: World NetDriver shutdown IpNetDriver_40 [GameNetDriver]
+[2019.06.17-15.40.10:517][189]LogNet: DestroyNamedNetDriver IpNetDriver_40 [GameNetDriver]
+[2019.06.17-15.40.10:517][189]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_52, Driver: GameNetDriver IpNetDriver_40, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-CA3681EC49E9C0875E355C9AB6B48793, Channels: 13, Time: 2019.06.17-15.40.10
+[2019.06.17-15.40.10:517][189]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_52, Driver: GameNetDriver IpNetDriver_40, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-CA3681EC49E9C0875E355C9AB6B48793
+[2019.06.17-15.40.10:517][189]LogExit: GameNetDriver IpNetDriver_40 shut down
+[2019.06.17-15.40.10:519][189]LogNet: World NetDriver shutdown IpNetDriver_39 [GameNetDriver]
+[2019.06.17-15.40.10:519][189]LogNet: DestroyNamedNetDriver IpNetDriver_39 [GameNetDriver]
+[2019.06.17-15.40.10:519][189]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50831, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:DESKTOP-DNRRKGJ-069E2CB44A871968DAC6C79568D34671
+[2019.06.17-15.40.10:519][189]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50831, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:DESKTOP-DNRRKGJ-069E2CB44A871968DAC6C79568D34671, Channels: 13, Time: 2019.06.17-15.40.10
+[2019.06.17-15.40.10:519][189]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50831, Name: IpConnection_55, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:DESKTOP-DNRRKGJ-069E2CB44A871968DAC6C79568D34671
+[2019.06.17-15.40.10:519][189]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50830, Name: IpConnection_54, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-CA3681EC49E9C0875E355C9AB6B48793
+[2019.06.17-15.40.10:519][189]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50830, Name: IpConnection_54, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-CA3681EC49E9C0875E355C9AB6B48793, Channels: 13, Time: 2019.06.17-15.40.10
+[2019.06.17-15.40.10:519][189]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50830, Name: IpConnection_54, Driver: GameNetDriver IpNetDriver_39, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:DESKTOP-DNRRKGJ-CA3681EC49E9C0875E355C9AB6B48793
+[2019.06.17-15.40.10:520][189]LogExit: GameNetDriver IpNetDriver_39 shut down
+[2019.06.17-15.40.10:520][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.17-15.40.10:520][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.06.17-15.40.10:586][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.06.17-15.40.10:599][190]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2019.06.17-15.40.10:599][190]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2019.06.17-15.40.10:599][190]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2019.06.17-15.41.29:528][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.44.24:074][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.47.27:680][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.47.27:744][971]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2019.06.17-15.47.27:744][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/NewMap' took 0.049
+[2019.06.17-15.47.27:746][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Weapons/BP_Weapon_AutoRifles] ([1] browsable assets)...
+[2019.06.17-15.47.27:767][971]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Weapons/BP_Weapon_AutoRifles.BP_Weapon_AutoRifles]
+[2019.06.17-15.47.27:767][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Weapon_AutoRifles]
+[2019.06.17-15.47.27:825][971]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_Weapon_AutoRifles_Auto317F039F34A788FC26B661A8F5EB98952.tmp' to '../../../../../../Users/pc/Desktop/howext/Saved/Autosaves/Game/Blueprints/Weapons/BP_Weapon_AutoRifles_Auto3.uasset'
+[2019.06.17-15.47.27:827][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_Weapon] ([1] browsable assets)...
+[2019.06.17-15.47.27:827][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Weapon]
+[2019.06.17-15.47.27:878][971]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_Weapon_Auto345AA27254D9D4337215B60957F52103F.tmp' to '../../../../../../Users/pc/Desktop/howext/Saved/Autosaves/Game/Blueprints/Weapons/BP_Weapon_Auto3.uasset'
+[2019.06.17-15.47.27:880][971]LogFileHelpers: Auto-saving content packages took 0.135
+[2019.06.17-15.50.12:159][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.50.13:567][356]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.22/Engine/Content: 'C:/Program Files/Epic Games/UE_4.22/Engine/Content' is outside repository
+[2019.06.17-15.50.13:790][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.50.18:590][356]LogSlate: Window 'Submit Files' being destroyed
+[2019.06.17-15.50.18:607][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.50.18:803][356]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.50.19:847][356]LogSourceControl: commit successful: [master 5926399] 5
+[2019.06.17-15.50.20:041][356]SourceControl: [master 5926399] 5
+[2019.06.17-15.50.20:041][356]SourceControl:  4 files changed, 3 insertions(+)
+[2019.06.17-15.50.20:041][356]SourceControl:  rewrite Content/Blueprints/Player/BP_PlayerCharacter.uasset (91%)
+[2019.06.17-15.50.20:041][356]SourceControl:  rewrite Content/Blueprints/Weapons/BP_FireWeapons.uasset (83%)
+[2019.06.17-15.50.20:051][356]SourceControl: Commited [master 5926399] 5.
+[2019.06.17-15.50.24:317][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.17-15.50.24:424][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.06.17-15.50.27:381][862]LogSlate: Window 'Save Content' being destroyed
+[2019.06.17-15.50.27:408][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.50.27:549][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.17-15.50.27:555][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/HeroFPP/HeroFPP" FILE="../../../../../../Users/pc/Desktop/howext/Content/Assets/Characters/HeroFPP/HeroFPP.uasset" SILENT=true
+[2019.06.17-15.50.27:601][862]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/HeroFPPA0B0DD4F414501F9A68B668A7A031EF3.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Assets/Characters/HeroFPP/HeroFPP.uasset'
+[2019.06.17-15.50.27:610][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_Weapon" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_Weapon.uasset" SILENT=true
+[2019.06.17-15.50.27:706][862]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_Weapon9DD89F454DFC9180A59D8DA899683393.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_Weapon.uasset'
+[2019.06.17-15.50.27:715][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Weapons/BP_Weapon_AutoRifles" FILE="../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_Weapon_AutoRifles.uasset" SILENT=true
+[2019.06.17-15.50.27:749][862]LogSavePackage: Moving '../../../../../../Users/pc/Desktop/howext/Saved/BP_Weapon_AutoRiflesC8C2481B47E815EC0FA86F9974E90A0F.tmp' to '../../../../../../Users/pc/Desktop/howext/Content/Blueprints/Weapons/BP_Weapon_AutoRifles.uasset'
+[2019.06.17-15.50.28:145][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.17-15.50.28:826][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.17-15.50.29:299][862]LogSlate: Window 'BP_Weapon' being destroyed
+[2019.06.17-15.50.29:523][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.17-15.50.29:652][862]LogSlate: Window 'Howext - Unreal Editor' being destroyed
+[2019.06.17-15.50.29:653][862]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.17-15.50.30:019][863]Cmd: QUIT_EDITOR
+[2019.06.17-15.50.30:843][863]LogExit: Preparing to exit.
+[2019.06.17-15.50.32:614][863]LogExit: Editor shut down
+[2019.06.17-15.50.32:616][863]LogExit: Transaction tracking system shut down
+[2019.06.17-15.50.35:673][863]LogExit: Object subsystem successfully closed.
+[2019.06.17-15.50.36:006][863]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.17-15.50.36:056][863]LogD3D11RHI: Shutdown
+[2019.06.17-15.50.36:056][863]LogD3D11RHI: CleanupD3DDevice
+[2019.06.17-15.50.36:075][863]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.17-15.50.36:075][863]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.17-15.50.36:097][863]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.17-15.50.36:098][863]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.17-15.50.36:098][863]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.17-15.50.36:098][863]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.17-15.50.36:346][863]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.17-15.50.39:293][863]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (654)
+[2019.06.17-15.50.39:293][863]LogModuleManager: Shutting down and abandoning module Voice (652)
+[2019.06.17-15.50.39:299][863]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2019.06.17-15.50.39:299][863]LogModuleManager: Shutting down and abandoning module PinnedCommandList (646)
+[2019.06.17-15.50.39:299][863]LogModuleManager: Shutting down and abandoning module SkeletonEditor (644)
+[2019.06.17-15.50.39:299][863]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.06.17-15.50.39:299][863]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.06.17-15.50.39:299][863]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.06.17-15.50.39:417][863]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.06.17-15.50.39:417][863]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.06.17-15.50.39:417][863]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.06.17-15.50.39:477][863]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.06.17-15.50.39:529][863]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.06.17-15.50.39:557][863]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
