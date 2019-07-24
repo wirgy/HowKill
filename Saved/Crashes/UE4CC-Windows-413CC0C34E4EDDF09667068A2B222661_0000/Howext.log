@@ -1,0 +1,1467 @@
+﻿Log file open, 07/23/19 00:14:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Howext
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.273657
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: AMD Radeon(TM) R9 370 series
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=W1rgy -epicuserid=a1a74ce051504e9683abf5d805f1127e -epiclocale=ru-RU
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.22-16.14.01:597][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Engine.ini]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Engine.ini]
+[2019.07.22-16.14.01:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Engine.ini]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Engine.ini]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.22-16.14.01:598][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Engine.ini]
+[2019.07.22-16.14.01:598][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Engine.ini]
+[2019.07.22-16.14.01:607][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.22-16.14.01:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.22-16.14.01:608][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.22-16.14.01:608][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.22-16.14.01:608][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.22-16.14.01:624][  0]LogHAL: Display: Platform has ~ 8 GB [8530186240 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.22-16.14.01:624][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.22-16.14.01:624][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.22-16.14.01:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Scalability.ini]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.22-16.14.01:625][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/WIRGY/Documents/GitHub/howext/Saved/Config/Windows/Engine.ini]
+[2019.07.22-16.14.01:626][  0]LogInit: Computer: HOME-PC
+[2019.07.22-16.14.01:626][  0]LogInit: User: WIRGY
+[2019.07.22-16.14.01:626][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.22-16.14.01:626][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.22-16.14.01:626][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.07.22-16.14.01:626][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.22-16.14.01:626][  0]LogMemory: Process Physical Memory: 96.84 MB used, 96.85 MB peak
+[2019.07.22-16.14.01:626][  0]LogMemory: Process Virtual Memory: 89.06 MB used, 89.06 MB peak
+[2019.07.22-16.14.01:626][  0]LogMemory: Physical Memory: 3439.52 MB used,  4695.50 MB free, 8135.02 MB total
+[2019.07.22-16.14.01:626][  0]LogMemory: Virtual Memory: 4656.45 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.07.22-16.14.01:652][  0]LogInit: Using OS detected language (ru-RU).
+[2019.07.22-16.14.01:652][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.07.22-16.14.01:653][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.07.22-16.14.01:653][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.07.22-16.14.01:653][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.07.22-16.14.01:653][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.07.22-16.14.01:653][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.07.22-16.14.01:653][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.07.22-16.14.01:653][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.07.22-16.14.01:654][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.07.22-16.14.01:654][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.22-16.14.01:694][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.22-16.14.01:694][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.22-16.14.01:861][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.22-16.14.01:861][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.22-16.14.01:875][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R9 370 series' (Feature Level 11_0)
+[2019.07.22-16.14.01:875][  0]LogD3D11RHI:       2028/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.07.22-16.14.01:878][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.22-16.14.01:878][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.22-16.14.01:878][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.22-16.14.01:881][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.22-16.14.01:882][  0]LogD3D11RHI:     GPU DeviceId: 0x6819 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.22-16.14.01:882][  0]LogWindows: EnumDisplayDevices:
+[2019.07.22-16.14.01:882][  0]LogWindows:    0. 'AMD Radeon(TM) R9 370 series' (P:1 D:1)
+[2019.07.22-16.14.01:882][  0]LogWindows:    1. 'AMD Radeon(TM) R9 370 series' (P:0 D:1)
+[2019.07.22-16.14.01:883][  0]LogWindows:    2. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.07.22-16.14.01:883][  0]LogWindows:    3. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.07.22-16.14.01:883][  0]LogWindows:    4. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.07.22-16.14.01:883][  0]LogWindows:    5. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.07.22-16.14.01:884][  0]LogWindows:    6. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.07.22-16.14.01:884][  0]LogWindows:    7. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.07.22-16.14.01:884][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.07.22-16.14.01:884][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R9 370 series
+[2019.07.22-16.14.01:884][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.5.2 (internal:26.20.11015.5009, unified:26.20.11015.5009)
+[2019.07.22-16.14.01:884][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.07.22-16.14.01:884][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2019.07.22-16.14.01:908][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.22-16.14.01:913][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.22-16.14.01:913][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.22-16.14.01:914][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.22-16.14.01:921][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.07.22-16.14.02:225][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.22-16.14.02:242][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.22-16.14.02:258][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.22-16.14.02:273][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.22-16.14.02:288][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.22-16.14.02:304][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.22-16.14.02:320][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.22-16.14.02:335][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.22-16.14.02:342][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.22-16.14.02:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.22-16.14.02:440][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.22-16.14.02:491][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.22-16.14.02:491][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.22-16.14.02:518][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.22-16.14.02:518][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.22-16.14.02:531][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.22-16.14.02:544][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.22-16.14.02:559][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.22-16.14.02:573][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.22-16.14.02:624][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.22-16.14.02:624][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.22-16.14.02:624][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.22-16.14.02:632][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.22-16.14.02:678][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/WIRGY/Documents/GitHub/howext/Intermediate/Shaders/WorkingDirectory/2828/).
+[2019.07.22-16.14.02:678][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Temp/UnrealShaderWorkingDir/6163E60F42EBEF12C631BD85162E9332/'.
+[2019.07.22-16.14.02:692][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.07.22-16.14.03:290][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.22-16.14.03:342][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/WIRGY/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.22-16.14.03:342][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/WIRGY/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.22-16.14.03:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/WIRGY/Documents/GitHub/howext/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.22-16.14.03:342][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.22-16.14.03:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/WIRGY/Documents/GitHub/howext/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.22-16.14.03:342][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.22-16.14.03:355][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.22-16.14.03:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.22-16.14.03:355][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.22-16.14.03:367][  0]LogDerivedDataCache: Using Local data cache path C:/Users/WIRGY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.22-16.14.03:367][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.22-16.14.03:367][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.22-16.14.03:397][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.22-16.14.03:399][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.22-16.14.03:399][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.22-16.14.03:487][  0]LogAssetRegistry: FAssetRegistry took 0.0350 seconds to start up
+[2019.07.22-16.14.03:888][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.22-16.14.03:944][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.22-16.14.03:944][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.22-16.14.03:944][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.22-16.14.03:944][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.22-16.14.03:944][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.22-16.14.04:043][  0]LogNetVersion: Howext 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3108297404)
+[2019.07.22-16.14.04:606][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.167168 seconds
+[2019.07.22-16.14.04:615][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.22-16.14.04:615][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.22-16.14.04:615][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.22-16.14.05:443][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.22-16.14.05:458][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.22-16.14.05:567][  0]SourceControl: Source control is disabled
+[2019.07.22-16.14.05:567][  0]SourceControl: Source control is disabled
+[2019.07.22-16.14.05:568][  0]SourceControl: Source control is disabled
+[2019.07.22-16.14.05:568][  0]SourceControl: Source control is disabled
+[2019.07.22-16.14.05:638][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.22-16.14.05:728][  0]LogOcInput: OculusInput pre-init called
+[2019.07.22-16.14.06:396][  0]LogEngine: Initializing Engine...
+[2019.07.22-16.14.06:396][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.22-16.14.06:397][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.22-16.14.06:621][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.22-16.14.06:637][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.22-16.14.06:670][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.22-16.14.06:695][  0]LogInit: FAudioDevice initialized.
+[2019.07.22-16.14.06:696][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.22-16.14.06:822][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/WIRGY/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.22-16.14.06:830][  0]LogInit: Texture streaming: Enabled
+[2019.07.22-16.14.06:849][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.22-16.14.06:930][  0]LogInit: Transaction tracking system initialized
+[2019.07.22-16.14.06:953][  0]BlueprintLog: New page: Editor Load
+[2019.07.22-16.14.07:045][  0]LocalizationService: Localization service is disabled
+[2019.07.22-16.14.07:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIRGY/Documents/GitHub/howext/Content/' took 0.02s
+[2019.07.22-16.14.07:375][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.22-16.14.07:375][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.22-16.14.07:619][  0]SourceControl: Source control is disabled
+[2019.07.22-16.14.07:619][  0]Cmd: MAP LOAD FILE="../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Assets/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.22-16.14.07:619][  0]LightingResults: New page: Lighting Build
+[2019.07.22-16.14.07:623][  0]MapCheck: New page: Map Check
+[2019.07.22-16.14.07:623][  0]LightingResults: New page: Lighting Build
+[2019.07.22-16.14.07:649][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.07.22-16.14.08:955][  0]LogLinker: Warning: Can't find file '/Game/Environment/Textures/holo_layer_1_5'
+[2019.07.22-16.14.08:955][  0]LogLinker: Warning: Can't find file for asset '/Game/Environment/Textures/holo_layer_1_5' while loading NULL.
+[2019.07.22-16.14.08:955][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskA.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.08:955][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskA.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.08:956][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.08:956][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.08:956][  0]LogLinker: Warning: Can't find file '/Game/Environment/Textures/holo_layer_1_5'
+[2019.07.22-16.14.08:956][  0]LogLinker: Warning: Can't find file for asset '/Game/Environment/Textures/holo_layer_1_5' while loading NULL.
+[2019.07.22-16.14.08:956][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskA.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.08:956][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskA.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.08:956][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.08:956][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.09:916][  0]LogLinker: Warning: Can't find file '/Game/Environment/Textures/holo_layer_1_5'
+[2019.07.22-16.14.09:916][  0]LoadErrors: Failed to load /Game/Environment/Textures/holo_layer_1_5.holo_layer_1_5 Referenced by MaterialExpressionTextureSample_11
+[2019.07.22-16.14.09:916][  0]LogLinker: Warning: Can't find file for asset '/Game/Environment/Textures/holo_layer_1_5' while loading NULL.
+[2019.07.22-16.14.09:916][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.09:916][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.09:917][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskA.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.09:917][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskA.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.09:917][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.09:917][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.09:917][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.09:917][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Weapons/Textures/SightLens_maskB.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.07.22-16.14.10:986][  0]LogMaterial: Display: Missing cached shader map for material MagGun_SightLens_Mat, compiling. 
+[2019.07.22-16.14.11:009][  0]LogMaterial: Warning: C:\Users\WIRGY\Documents\GitHub\howext\Content\Weapons\Materials\MagGun_SightLens_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.22-16.14.11:009][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.07.22-16.14.11:012][  0]LogMaterial: Display: Missing cached shader map for material MagGun_MatB, compiling. 
+[2019.07.22-16.14.11:021][  0]LogMaterial: Warning: C:\Users\WIRGY\Documents\GitHub\howext\Content\Weapons\Materials\MagGun_MatB.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	(Node TextureObject) Texture Object> Requires valid texture
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Normal
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	Function MatLayerBlend_Emissive: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	Function ML_Metal_Copper: (Node TextureSample) BaseColor in RGB Roughness in Alpha> Missing input texture
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	Function ML_Metal_Copper: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	Function ML_Metal_Copper: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.07.22-16.14.11:021][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.07.22-16.14.11:024][  0]LogMaterial: Display: Missing cached shader map for material MagGun_MatA, compiling. 
+[2019.07.22-16.14.11:030][  0]LogMaterial: Warning: C:\Users\WIRGY\Documents\GitHub\howext\Content\Weapons\Materials\MagGun_MatA.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.22-16.14.11:030][  0]LogMaterial: 	(Node TextureObject) Texture Object> Requires valid texture
+[2019.07.22-16.14.11:030][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Normal
+[2019.07.22-16.14.11:030][  0]LogMaterial: 	Function ML_Metal_Copper: (Node TextureSample) BaseColor in RGB Roughness in Alpha> Missing input texture
+[2019.07.22-16.14.11:030][  0]LogMaterial: 	Function ML_Metal_Copper: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.07.22-16.14.11:030][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.07.22-16.14.11:030][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.07.22-16.14.11:030][  0]LogMaterial: 	Function ML_Metal_Copper: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.07.22-16.14.11:030][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.07.22-16.14.11:100][  0]LogMaterial: Display: Missing cached shader map for material HeroTPP, compiling. 
+[2019.07.22-16.14.11:105][  0]LogMaterial: Warning: C:\Users\WIRGY\Documents\GitHub\howext\Content\Assets\Characters\Materials\HeroTPP.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.07.22-16.14.11:105][  0]LogMaterial: 	Function ML_Base: (Node TextureSample) Texture Sample> Missing input texture
+[2019.07.22-16.14.11:105][  0]LogMaterial: 	Function ML_Base: (Node MakeMaterialAttributes) Error on property Normal
+[2019.07.22-16.14.11:105][  0]LogMaterial: 	Function ML_Rubber_dark: (Node TextureSample) Texture Sample> Missing input texture
+[2019.07.22-16.14.11:105][  0]LogMaterial: 	Function ML_Rubber_dark: (Node MakeMaterialAttributes) Error on property Normal
+[2019.07.22-16.14.11:157][  0]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.14.11:275][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.22-16.14.11:302][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.07.22-16.14.11:302][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.22-16.14.11:302][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,17ms to complete.
+[2019.07.22-16.14.11:302][  0]LogFileHelpers: Loading map 'NewMap' took 3.683
+[2019.07.22-16.14.12:016][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.14.12:025][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.14.12:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.14.12:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.14.12:129][  0]LogCollectionManager: Loaded 0 collections in 0.010379 seconds
+[2019.07.22-16.14.12:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIRGY/Documents/GitHub/howext/Saved/Collections/' took 0.01s
+[2019.07.22-16.14.12:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIRGY/Documents/GitHub/howext/Content/Developers/WIRGY/Collections/' took 0.00s
+[2019.07.22-16.14.12:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIRGY/Documents/GitHub/howext/Content/Collections/' took 0.00s
+[2019.07.22-16.14.12:299][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.22-16.14.12:312][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2732 classes and 659 folders.
+[2019.07.22-16.14.12:381][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.22-16.14.12:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:541][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:544][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:545][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:568][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.12:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.22-16.14.13:081][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.22-16.14.13:143][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.07.22-16.14.13:571][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.22-16.14.13:573][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.22-16.14.13:617][  0]LogSlate: Took 0.030515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.22-16.14.13:911][  0]LogRenderer: Reallocating scene render targets to support 904x456 Format 10 NumSamples 1 (Frame:1).
+[2019.07.22-16.14.14:255][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.22-16.14.14:255][  0]LogLoad: (Engine Initialization) Total time: 15.24 seconds
+[2019.07.22-16.14.14:255][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.22-16.14.14:316][  0]LogAssetRegistry: Asset discovery search completed in 10.8522 seconds
+[2019.07.22-16.14.14:319][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.07.22-16.14.14:319][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.07.22-16.14.14:368][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.22-16.14.14:378][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.22-16.14.14:529][  0]LogSlate: Took 0.005709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.22-16.14.15:288][ 80]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.22-16.14.21:389][760]LogSlate: Window 'Message Log' being destroyed
+[2019.07.22-16.14.21:392][760]LogSlate: Window 'Message Log' being destroyed
+[2019.07.22-16.14.22:160][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.22-16.14.22:262][859]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2019.07.22-16.14.23:005][859]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.07.22-16.14.24:558][859]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_Weapon.BP_Weapon
+[2019.07.22-16.14.24:970][859]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_FireWeapons.BP_FireWeapons
+[2019.07.22-16.14.25:379][859]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Components/Player/BP_WeaponManager.BP_WeaponManager
+[2019.07.22-16.14.25:792][859]LogSlate: Took 0.008689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.22-16.14.26:232][860]LogSlate: Took 0.012074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.22-16.20.14:421][916]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.22-16.20.14:421][916]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.22-16.21.18:470][841]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.21.18:638][841]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.07.22-16.21.19:193][841]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.07.22-16.21.20:841][927]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/BP_WeaponManager0D0E328E4AA6042C88E4FF9D0766537A.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Blueprints/Components/Player/BP_WeaponManager.uasset'
+[2019.07.22-16.21.28:004][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.22-16.24.14:530][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.07.22-16.24.14:834][952]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/NewMap_Auto15E4FDB44414C6D2A544769BB6D082AA2.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/Autosaves/Game/Assets/Maps/NewMap_Auto1.umap'
+[2019.07.22-16.24.14:860][952]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/NewMap' took 0.373
+[2019.07.22-16.24.14:860][952]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.373
+[2019.07.22-16.24.14:861][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_PlayerCharacter] ([1] browsable assets)...
+[2019.07.22-16.24.15:058][952]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter]
+[2019.07.22-16.24.15:058][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerCharacter]
+[2019.07.22-16.24.15:206][952]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/BP_PlayerCharacter_Auto132949D034048DCDF286EAD961776E52C.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerCharacter_Auto1.uasset'
+[2019.07.22-16.24.15:266][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/Player/BP_WeaponManager] ([1] browsable assets)...
+[2019.07.22-16.24.15:266][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/Player/BP_WeaponManager]
+[2019.07.22-16.24.15:413][952]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/BP_WeaponManager_Auto1342E9E4F4E67C8776519DB9C57CB9CA1.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/Autosaves/Game/Blueprints/Components/Player/BP_WeaponManager_Auto1.uasset'
+[2019.07.22-16.24.15:471][952]LogFileHelpers: Auto-saving content packages took 0.611
+[2019.07.22-16.24.19:042][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.22-16.24.26:418][ 51]LogSlate: Took 0.009387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.07.22-16.24.49:677][106]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.24.49:759][106]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.07.22-16.24.49:759][106]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.07.22-16.24.49:991][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.07.22-16.24.52:186][296]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/BP_WeaponManager299B47214144D9C825F002B3702848D0.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Blueprints/Components/Player/BP_WeaponManager.uasset'
+[2019.07.22-16.25.24:075][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.22-16.26.47:138][725]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.26.47:258][725]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.07.22-16.26.47:259][725]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.07.22-16.26.47:478][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.07.22-16.26.48:230][772]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/BP_WeaponManagerD09FCC124F2B4A5CDA18369FD8FF899B.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Blueprints/Components/Player/BP_WeaponManager.uasset'
+[2019.07.22-16.26.49:284][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.22-16.26.50:218][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.22-16.26.50:307][989]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.07.22-16.26.50:372][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.26.50:395][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.22-16.26.50:443][989]PIE: New page: PIE session: NewMap (23 июля 2019 г., 8:26:50)
+[2019.07.22-16.26.50:518][989]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_1_NewMap
+[2019.07.22-16.26.50:533][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014236s)
+[2019.07.22-16.26.50:540][989]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.26.50:550][989]LogPlayLevel: PIE: World Init took: (0.017213s)
+[2019.07.22-16.26.50:550][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/NewMap.NewMap to /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap (0.032165s)
+[2019.07.22-16.26.50:587][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.07.22-16.26.50:691][989]LogLoad: Game class is 'BP_BaseGamemode_C'
+[2019.07.22-16.26.50:823][989]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap up for play (max tick rate 0) at 2019.07.23-00.26.50
+[2019.07.22-16.26.50:943][989]LogWorld: Bringing up level for play took: 0.120946
+[2019.07.22-16.26.50:971][989]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.26.50:986][989]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.07.22-16.26.50:986][989]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.26.50:993][989]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.07.22-16.26.50:993][989]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.07.22-16.26.50:993][989]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.07.22-16.26.50:994][989]LogInit: WinSock: I am HOME-PC (192.168.31.120:0)
+[2019.07.22-16.26.51:000][989]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.26.51:002][989]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2019.07.22-16.26.51:010][989]PIE: Play in editor start time for /Game/Assets/Maps/UEDPIE_1_NewMap 0,874
+[2019.07.22-16.26.51:043][989]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.22-16.26.51:063][989]LogInit: FAudioDevice initialized.
+[2019.07.22-16.26.51:071][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.26.51:180][989]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.07.22-16.26.51:180][989]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.26.51:180][989]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2019.07.22-16.26.51:180][989]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.07.22-16.26.51:180][989]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.07.22-16.26.51:183][989]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.26.51:183][989]LogNet: Game client on port 17777, rate 10000
+[2019.07.22-16.26.51:207][989]PIE: Play in editor start time for /Game/Assets/Maps/NewMap 1,071
+[2019.07.22-16.26.51:212][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.22-16.26.51:215][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.26.51:244][989]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.07.22-16.26.51:245][989]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.26.51:245][989]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2019.07.22-16.26.51:245][989]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.07.22-16.26.51:245][989]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.07.22-16.26.51:245][989]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.26.51:245][989]LogNet: Game client on port 17777, rate 10000
+[2019.07.22-16.26.51:249][989]PIE: Play in editor start time for /Game/Assets/Maps/NewMap 1,113
+[2019.07.22-16.26.51:255][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.26.51:265][989]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63390
+[2019.07.22-16.26.51:266][989]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 062190158085187169237149129233176173053118040041192008010188
+[2019.07.22-16.26.51:266][989]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63391
+[2019.07.22-16.26.51:266][989]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 124015092070221210181038179102158186095042041157188091089091
+[2019.07.22-16.26.51:311][989]LogBlueprintActionDatabase: Requesting refresh due to module change: PerfCounters (loaded)
+[2019.07.22-16.26.51:353][989]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.07.22-16.26.51:355][989]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 062190158085187169237149129233176173053118040041192008010188
+[2019.07.22-16.26.51:389][989]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 124015092070221210181038179102158186095042041157188091089091
+[2019.07.22-16.26.51:795][990]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63390
+[2019.07.22-16.26.51:795][990]LogHandshake: SendChallengeAck. InCookie: 062190158085187169237149129233176173053118040041192008010188
+[2019.07.22-16.26.51:795][990]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63390
+[2019.07.22-16.26.51:811][990]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.26.51:812][990]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 07/23/19 00:26:51, [UNetConnection] RemoteAddr: 127.0.0.1:63390, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.26.51:812][990]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63390, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.26.51:812][990]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63391
+[2019.07.22-16.26.51:812][990]LogHandshake: SendChallengeAck. InCookie: 124015092070221210181038179102158186095042041157188091089091
+[2019.07.22-16.26.51:812][990]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63391
+[2019.07.22-16.26.51:812][990]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.26.51:812][990]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 07/23/19 00:26:51, [UNetConnection] RemoteAddr: 127.0.0.1:63391, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.26.51:812][990]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63391, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.26.51:818][990]LogNetVersion: Howext 1.0.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2217561265)
+[2019.07.22-16.26.51:818][990]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.26.51:828][990]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.26.51:838][991]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.07.22-16.26.51:851][991]LogNet: Remote platform little endian=1
+[2019.07.22-16.26.51:851][991]LogNet: This platform little endian=1
+[2019.07.22-16.26.51:873][991]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.07.22-16.26.51:873][991]LogNet: Remote platform little endian=1
+[2019.07.22-16.26.51:873][991]LogNet: This platform little endian=1
+[2019.07.22-16.26.51:908][992]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=HOME-PC-E5F96BDF47A10D8162547087282D98F3 userId: NULL:HOME-PC-E5F96BDF47A10D8162547087282D98F3 platform: NULL
+[2019.07.22-16.26.51:908][992]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=HOME-PC-3F6D03424CE9F988E82EA5B536072E25 userId: NULL:HOME-PC-3F6D03424CE9F988E82EA5B536072E25 platform: NULL
+[2019.07.22-16.26.51:909][992]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.07.22-16.26.51:918][992]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.07.22-16.26.51:985][992]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2019.07.22-16.26.52:015][992]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.26.52:015][992]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.26.52:037][992]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_2_NewMap.NewMap up for play (max tick rate 0) at 2019.07.23-00.26.52
+[2019.07.22-16.26.52:037][992]LogWorld: Bringing up level for play took: 0.001315
+[2019.07.22-16.26.52:048][992]LogLoad: Took 0.129945 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.07.22-16.26.52:059][992]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.07.22-16.26.52:076][992]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.07.22-16.26.52:138][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.07.22-16.26.52:144][992]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.26.52:144][992]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.26.52:145][992]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_3_NewMap.NewMap up for play (max tick rate 0) at 2019.07.23-00.26.52
+[2019.07.22-16.26.52:146][992]LogWorld: Bringing up level for play took: 0.000920
+[2019.07.22-16.26.52:146][992]LogLoad: Took 0.069470 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.07.22-16.26.52:211][993]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.07.22-16.26.52:213][993]LogNet: Client netspeed is 10000
+[2019.07.22-16.26.52:213][993]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=HOME-PC-E5F96BDF47A10D8162547087282D98F3?SplitscreenCount=1
+[2019.07.22-16.26.52:274][993]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.26.52:531][993]LogNet: Join succeeded: HOME-PC-E5F96BDF47A1
+[2019.07.22-16.26.52:531][993]LogNet: Client netspeed is 10000
+[2019.07.22-16.26.52:531][993]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=HOME-PC-3F6D03424CE9F988E82EA5B536072E25?SplitscreenCount=1
+[2019.07.22-16.26.52:531][993]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.26.52:550][993]LogNet: Join succeeded: HOME-PC-3F6D03424CE9
+[2019.07.22-16.26.52:611][994]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.26.52:646][994]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.26.52:651][994]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.26.52:651][994]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.26.54:478][ 98]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.26.54:479][ 98]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.26.59:995][414]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:330][434]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:503][444]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:521][445]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:537][446]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:657][453]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:674][454]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:692][455]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:810][462]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:829][463]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:919][468]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:919][468]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:937][469]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.00:972][471]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:024][474]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:041][475]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:058][476]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:058][476]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:093][478]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:128][480]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:146][481]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:146][481]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:165][482]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:273][488]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:289][489]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:307][490]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:362][493]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:381][494]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:401][495]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:510][501]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:526][502]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:544][503]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:613][507]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:628][508]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:646][509]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:738][514]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:756][515]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:773][516]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:791][517]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:825][519]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:842][520]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:861][521]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:877][522]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:960][527]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:976][528]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.01:993][529]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:059][533]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:077][534]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:093][535]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:110][536]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:178][540]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:195][541]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:216][542]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:231][543]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:284][546]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:301][547]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:318][548]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:353][550]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:427][554]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:443][555]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:460][556]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:476][557]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:575][563]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:609][565]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:731][572]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:748][573]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:767][574]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:822][577]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:858][579]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:875][580]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:893][581]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.02:910][582]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:010][588]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:027][589]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:045][590]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:111][594]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:128][595]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:162][597]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:246][602]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:263][603]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:280][604]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:330][607]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:347][608]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:465][615]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:482][616]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:569][621]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:588][622]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:709][629]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:727][630]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:744][631]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:829][636]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:846][637]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:863][638]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.03:980][645]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:014][647]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:049][649]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:118][653]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:140][654]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:154][655]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:266][661]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:280][662]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:297][663]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:381][668]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:412][670]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:529][677]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:563][679]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:613][682]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:630][683]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.04:648][684]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.05:181][716]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.06:069][768]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.06:605][800]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.07:951][879]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.10:437][ 27]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.10:840][ 51]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.11:338][ 81]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.11:640][ 99]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.15:841][348]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.16:333][377]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.16:867][409]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.17:302][435]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.17:673][457]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.18:183][486]LogBlueprintUserMessages: [None] 17/180
+[2019.07.22-16.27.18:560][506]LogBlueprintUserMessages: [None] 16/180
+[2019.07.22-16.27.19:046][534]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.19:375][553]LogBlueprintUserMessages: [None] 15/180
+[2019.07.22-16.27.19:863][581]LogBlueprintUserMessages: [None] 14/180
+[2019.07.22-16.27.20:259][603]LogBlueprintUserMessages: [None] 13/180
+[2019.07.22-16.27.20:657][625]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.21:114][651]LogBlueprintUserMessages: [None] 12/180
+[2019.07.22-16.27.21:462][670]LogBlueprintUserMessages: [None] 11/180
+[2019.07.22-16.27.21:793][688]LogBlueprintUserMessages: [None] 10/180
+[2019.07.22-16.27.22:158][708]LogBlueprintUserMessages: [None] 9/180
+[2019.07.22-16.27.22:986][753]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.24:718][849]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.24:755][851]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.24:807][854]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.25:201][876]LogBlueprintUserMessages: [None] 8/180
+[2019.07.22-16.27.25:614][899]LogBlueprintUserMessages: [None] 7/180
+[2019.07.22-16.27.25:756][907]LogBlueprintUserMessages: [None] 7/180
+[2019.07.22-16.27.44:351][979]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.44:769][  2]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:055][ 18]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:092][ 20]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:127][ 22]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:237][ 28]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:255][ 29]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:290][ 31]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:362][ 35]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:379][ 36]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:399][ 37]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.27.45:552][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.27.45:576][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.27.45:587][ 44]LogSlate: Window 'Howext Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.22-16.27.45:658][ 44]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2019.07.22-16.27.45:658][ 44]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2019.07.22-16.27.45:669][ 44]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-3F6D03424CE9F988E82EA5B536072E25, Channels: 14, Time: 2019.07.22-16.27.45
+[2019.07.22-16.27.45:669][ 44]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-3F6D03424CE9F988E82EA5B536072E25
+[2019.07.22-16.27.45:678][ 44]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2019.07.22-16.27.45:680][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.27.45:692][ 44]LogSlate: Window 'Howext Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.22-16.27.45:727][ 44]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2019.07.22-16.27.45:727][ 44]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2019.07.22-16.27.45:727][ 44]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-E5F96BDF47A10D8162547087282D98F3, Channels: 14, Time: 2019.07.22-16.27.45
+[2019.07.22-16.27.45:727][ 44]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-E5F96BDF47A10D8162547087282D98F3
+[2019.07.22-16.27.45:727][ 44]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2019.07.22-16.27.45:734][ 44]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.07.22-16.27.45:734][ 44]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.07.22-16.27.45:734][ 44]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63391, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:HOME-PC-3F6D03424CE9F988E82EA5B536072E25
+[2019.07.22-16.27.45:734][ 44]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63391, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:HOME-PC-3F6D03424CE9F988E82EA5B536072E25, Channels: 14, Time: 2019.07.22-16.27.45
+[2019.07.22-16.27.45:734][ 44]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63391, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:HOME-PC-3F6D03424CE9F988E82EA5B536072E25
+[2019.07.22-16.27.45:734][ 44]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63390, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-E5F96BDF47A10D8162547087282D98F3
+[2019.07.22-16.27.45:734][ 44]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63390, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-E5F96BDF47A10D8162547087282D98F3, Channels: 14, Time: 2019.07.22-16.27.45
+[2019.07.22-16.27.45:734][ 44]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63390, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-E5F96BDF47A10D8162547087282D98F3
+[2019.07.22-16.27.45:734][ 44]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.07.22-16.27.45:735][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.22-16.27.45:735][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.27.45:929][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.07.22-16.27.45:976][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.07.22-16.27.45:976][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.07.22-16.27.45:976][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.07.22-16.29.20:399][213]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.29.20:671][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.07.22-16.29.21:576][271]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/BP_WeaponManagerE81DC632472B69D282336397A49FE383.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Blueprints/Components/Player/BP_WeaponManager.uasset'
+[2019.07.22-16.29.31:883][185]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.07.22-16.29.31:901][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.29.31:901][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.22-16.29.31:901][185]PIE: New page: PIE session: NewMap (23 июля 2019 г., 8:29:31)
+[2019.07.22-16.29.31:901][185]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_1_NewMap
+[2019.07.22-16.29.31:904][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002898s)
+[2019.07.22-16.29.31:905][185]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.29.31:905][185]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2019.07.22-16.29.31:905][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/NewMap.NewMap to /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap (0.003592s)
+[2019.07.22-16.29.31:945][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.07.22-16.29.31:946][185]LogLoad: Game class is 'BP_BaseGamemode_C'
+[2019.07.22-16.29.31:947][185]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap up for play (max tick rate 0) at 2019.07.23-00.29.31
+[2019.07.22-16.29.31:947][185]LogWorld: Bringing up level for play took: 0.000999
+[2019.07.22-16.29.31:947][185]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.29.31:947][185]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2019.07.22-16.29.31:948][185]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.29.31:948][185]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.07.22-16.29.31:948][185]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.07.22-16.29.31:948][185]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.07.22-16.29.31:948][185]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.29.31:948][185]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2019.07.22-16.29.31:948][185]PIE: Play in editor start time for /Game/Assets/Maps/UEDPIE_1_NewMap -0,188
+[2019.07.22-16.29.31:965][185]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.22-16.29.31:984][185]LogInit: FAudioDevice initialized.
+[2019.07.22-16.29.31:989][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.29.32:020][185]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.07.22-16.29.32:020][185]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.29.32:020][185]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2019.07.22-16.29.32:020][185]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.07.22-16.29.32:020][185]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.07.22-16.29.32:020][185]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.29.32:020][185]LogNet: Game client on port 17777, rate 10000
+[2019.07.22-16.29.32:023][185]PIE: Play in editor start time for /Game/Assets/Maps/NewMap -0,113
+[2019.07.22-16.29.32:028][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.22-16.29.32:031][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.29.32:060][185]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.07.22-16.29.32:060][185]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.29.32:060][185]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2019.07.22-16.29.32:060][185]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.07.22-16.29.32:060][185]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.07.22-16.29.32:060][185]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.29.32:061][185]LogNet: Game client on port 17777, rate 10000
+[2019.07.22-16.29.32:064][185]PIE: Play in editor start time for /Game/Assets/Maps/NewMap -0,072
+[2019.07.22-16.29.32:069][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.29.32:069][185]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56784
+[2019.07.22-16.29.32:069][185]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 241201030174050232067124024250031022086177203155237096254093
+[2019.07.22-16.29.32:069][185]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56785
+[2019.07.22-16.29.32:070][185]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 065100093204217172079022124214036255013102046160138024100140
+[2019.07.22-16.29.32:082][185]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 241201030174050232067124024250031022086177203155237096254093
+[2019.07.22-16.29.32:083][185]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 065100093204217172079022124214036255013102046160138024100140
+[2019.07.22-16.29.32:117][186]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56784
+[2019.07.22-16.29.32:118][186]LogHandshake: SendChallengeAck. InCookie: 241201030174050232067124024250031022086177203155237096254093
+[2019.07.22-16.29.32:118][186]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56784
+[2019.07.22-16.29.32:118][186]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.29.32:118][186]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 07/23/19 00:29:32, [UNetConnection] RemoteAddr: 127.0.0.1:56784, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.29.32:118][186]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56784, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.29.32:118][186]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56785
+[2019.07.22-16.29.32:118][186]LogHandshake: SendChallengeAck. InCookie: 065100093204217172079022124214036255013102046160138024100140
+[2019.07.22-16.29.32:118][186]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56785
+[2019.07.22-16.29.32:118][186]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.29.32:118][186]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 07/23/19 00:29:32, [UNetConnection] RemoteAddr: 127.0.0.1:56785, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.29.32:118][186]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56785, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.29.32:119][186]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.29.32:119][186]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.29.32:126][187]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.07.22-16.29.32:126][187]LogNet: Remote platform little endian=1
+[2019.07.22-16.29.32:126][187]LogNet: This platform little endian=1
+[2019.07.22-16.29.32:126][187]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.07.22-16.29.32:126][187]LogNet: Remote platform little endian=1
+[2019.07.22-16.29.32:126][187]LogNet: This platform little endian=1
+[2019.07.22-16.29.32:156][188]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=HOME-PC-5E4000C64BB1A09EFBDCF3A090BAB161 userId: NULL:HOME-PC-5E4000C64BB1A09EFBDCF3A090BAB161 platform: NULL
+[2019.07.22-16.29.32:156][188]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=HOME-PC-5F8887A541CAA7EC4D0124BB74881ADE userId: NULL:HOME-PC-5F8887A541CAA7EC4D0124BB74881ADE platform: NULL
+[2019.07.22-16.29.32:156][188]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.07.22-16.29.32:157][188]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.07.22-16.29.32:197][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.07.22-16.29.32:201][188]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.29.32:201][188]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.29.32:203][188]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_2_NewMap.NewMap up for play (max tick rate 0) at 2019.07.23-00.29.32
+[2019.07.22-16.29.32:203][188]LogWorld: Bringing up level for play took: 0.000947
+[2019.07.22-16.29.32:203][188]LogLoad: Took 0.046075 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.07.22-16.29.32:204][188]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.07.22-16.29.32:220][188]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.07.22-16.29.32:261][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.07.22-16.29.32:264][188]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.29.32:265][188]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.29.32:266][188]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_3_NewMap.NewMap up for play (max tick rate 0) at 2019.07.23-00.29.32
+[2019.07.22-16.29.32:266][188]LogWorld: Bringing up level for play took: 0.000871
+[2019.07.22-16.29.32:266][188]LogLoad: Took 0.046404 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.07.22-16.29.32:278][189]LogNet: Client netspeed is 10000
+[2019.07.22-16.29.32:278][189]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=HOME-PC-5E4000C64BB1A09EFBDCF3A090BAB161?SplitscreenCount=1
+[2019.07.22-16.29.32:278][189]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.29.32:280][189]LogNet: Join succeeded: HOME-PC-5E4000C64BB1
+[2019.07.22-16.29.32:280][189]LogNet: Client netspeed is 10000
+[2019.07.22-16.29.32:280][189]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=HOME-PC-5F8887A541CAA7EC4D0124BB74881ADE?SplitscreenCount=1
+[2019.07.22-16.29.32:280][189]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.29.32:281][189]LogNet: Join succeeded: HOME-PC-5F8887A541CA
+[2019.07.22-16.29.32:318][190]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.29.32:322][190]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.29.32:334][191]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.29.32:335][191]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.29.34:127][298]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.34:128][298]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.35:900][404]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.36:802][458]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.36:870][462]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.37:051][473]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.37:085][475]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.37:117][477]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.37:251][485]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.37:268][486]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.37:302][488]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.37:403][494]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.37:418][495]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.37:453][497]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.42:052][771]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.42:053][771]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.44:548][919]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.44:549][919]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.45:887][996]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.45:990][  2]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.46:202][ 14]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.46:254][ 17]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.47:237][ 75]LogBlueprintUserMessages: [None] 17/64
+[2019.07.22-16.29.47:906][115]LogBlueprintUserMessages: [None] 17/64
+[2019.07.22-16.29.48:175][131]LogBlueprintUserMessages: [None] 16/64
+[2019.07.22-16.29.48:374][143]LogBlueprintUserMessages: [None] 16/64
+[2019.07.22-16.29.48:711][163]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.48:728][164]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.48:797][168]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.48:849][171]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.48:866][172]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.48:900][174]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:010][180]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:028][181]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:155][188]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:174][189]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:295][196]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:331][198]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:366][200]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:455][205]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:474][206]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:509][208]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:578][212]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:596][213]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:632][215]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:702][219]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:736][221]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:756][222]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:850][227]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:885][229]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:957][233]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:974][234]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.49:992][235]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:097][241]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:097][241]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:131][243]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:185][246]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:219][248]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:237][249]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:329][254]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:363][256]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:431][260]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:467][262]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:503][264]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:555][267]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:574][268]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:594][269]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:681][274]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:699][275]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:716][276]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:821][282]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:855][284]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:926][288]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:945][289]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.50:962][290]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:051][295]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:069][296]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:088][297]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:106][298]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:142][300]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:162][301]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:179][302]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:198][303]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:286][308]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:303][309]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:338][311]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:373][313]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:412][315]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:428][316]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:517][321]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:534][322]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:552][323]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:641][328]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:659][329]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.51:677][330]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.53:441][430]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.55:721][562]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.55:840][569]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.56:118][586]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.56:189][590]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.56:386][602]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.56:435][605]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.56:588][614]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.56:622][616]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.56:808][627]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.56:875][631]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.56:991][638]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:027][640]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:159][648]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:224][652]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:307][657]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:341][659]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:409][663]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:460][666]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:661][678]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:678][679]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:712][681]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:833][688]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.57:865][690]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.58:033][700]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.58:050][701]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.29.58:308][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.29.58:308][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.29.58:319][716]LogSlate: Window 'Howext Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.22-16.29.58:355][716]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2019.07.22-16.29.58:355][716]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2019.07.22-16.29.58:355][716]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-5F8887A541CAA7EC4D0124BB74881ADE, Channels: 14, Time: 2019.07.22-16.29.58
+[2019.07.22-16.29.58:355][716]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-5F8887A541CAA7EC4D0124BB74881ADE
+[2019.07.22-16.29.58:355][716]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2019.07.22-16.29.58:356][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.29.58:366][716]LogSlate: Window 'Howext Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.22-16.29.58:395][716]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2019.07.22-16.29.58:395][716]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2019.07.22-16.29.58:395][716]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-5E4000C64BB1A09EFBDCF3A090BAB161, Channels: 14, Time: 2019.07.22-16.29.58
+[2019.07.22-16.29.58:395][716]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-5E4000C64BB1A09EFBDCF3A090BAB161
+[2019.07.22-16.29.58:395][716]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2019.07.22-16.29.58:401][716]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2019.07.22-16.29.58:401][716]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2019.07.22-16.29.58:401][716]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56785, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:HOME-PC-5F8887A541CAA7EC4D0124BB74881ADE
+[2019.07.22-16.29.58:401][716]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56785, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:HOME-PC-5F8887A541CAA7EC4D0124BB74881ADE, Channels: 14, Time: 2019.07.22-16.29.58
+[2019.07.22-16.29.58:401][716]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56785, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:HOME-PC-5F8887A541CAA7EC4D0124BB74881ADE
+[2019.07.22-16.29.58:401][716]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56784, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-5E4000C64BB1A09EFBDCF3A090BAB161
+[2019.07.22-16.29.58:401][716]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56784, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-5E4000C64BB1A09EFBDCF3A090BAB161, Channels: 14, Time: 2019.07.22-16.29.58
+[2019.07.22-16.29.58:401][716]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56784, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-5E4000C64BB1A09EFBDCF3A090BAB161
+[2019.07.22-16.29.58:402][716]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2019.07.22-16.29.58:402][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.22-16.29.58:402][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.29.58:444][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.07.22-16.29.58:459][717]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.07.22-16.29.58:459][717]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.07.22-16.29.58:459][717]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.07.22-16.31.35:753][792]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.31.36:013][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.07.22-16.32.00:826][459]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.07.22-16.32.00:845][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.32.00:845][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.22-16.32.00:845][459]PIE: New page: PIE session: NewMap (23 июля 2019 г., 8:32:00)
+[2019.07.22-16.32.00:845][459]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_1_NewMap
+[2019.07.22-16.32.00:848][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002858s)
+[2019.07.22-16.32.00:848][459]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.32.00:848][459]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2019.07.22-16.32.00:848][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/NewMap.NewMap to /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap (0.003562s)
+[2019.07.22-16.32.00:887][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.07.22-16.32.00:887][459]LogLoad: Game class is 'BP_BaseGamemode_C'
+[2019.07.22-16.32.00:889][459]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap up for play (max tick rate 0) at 2019.07.23-00.32.00
+[2019.07.22-16.32.00:889][459]LogWorld: Bringing up level for play took: 0.001000
+[2019.07.22-16.32.00:889][459]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.32.00:889][459]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2019.07.22-16.32.00:889][459]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.32.00:889][459]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.07.22-16.32.00:889][459]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.07.22-16.32.00:889][459]LogInit: WinSock: Socket queue 131072 / 131072
+[2019.07.22-16.32.00:890][459]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.32.00:890][459]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2019.07.22-16.32.00:890][459]PIE: Play in editor start time for /Game/Assets/Maps/UEDPIE_1_NewMap 0,755
+[2019.07.22-16.32.00:907][459]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.22-16.32.00:926][459]LogInit: FAudioDevice initialized.
+[2019.07.22-16.32.00:931][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.32.00:964][459]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.07.22-16.32.00:964][459]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.32.00:964][459]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2019.07.22-16.32.00:964][459]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.07.22-16.32.00:964][459]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.07.22-16.32.00:964][459]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.32.00:964][459]LogNet: Game client on port 17777, rate 10000
+[2019.07.22-16.32.00:967][459]PIE: Play in editor start time for /Game/Assets/Maps/NewMap 0,832
+[2019.07.22-16.32.00:972][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.22-16.32.00:975][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.32.01:012][459]LogNet: Browse: 127.0.0.1:17777//Game/Assets/Maps/NewMap
+[2019.07.22-16.32.01:012][459]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.32.01:012][459]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2019.07.22-16.32.01:012][459]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.07.22-16.32.01:012][459]LogInit: WinSock: Socket queue 32768 / 32768
+[2019.07.22-16.32.01:013][459]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.32.01:013][459]LogNet: Game client on port 17777, rate 10000
+[2019.07.22-16.32.01:016][459]PIE: Play in editor start time for /Game/Assets/Maps/NewMap 0,88
+[2019.07.22-16.32.01:020][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.32.01:020][459]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55965
+[2019.07.22-16.32.01:020][459]LogHandshake: SendConnectChallenge. Timestamp: 0.008335, Cookie: 157066013194201076182211185175103025093004010215042036236019
+[2019.07.22-16.32.01:020][459]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55966
+[2019.07.22-16.32.01:020][459]LogHandshake: SendConnectChallenge. Timestamp: 0.008335, Cookie: 050137167040035151034228217064023024075111235238121145220037
+[2019.07.22-16.32.01:032][459]LogHandshake: SendChallengeResponse. Timestamp: 0.008335, Cookie: 157066013194201076182211185175103025093004010215042036236019
+[2019.07.22-16.32.01:033][459]LogHandshake: SendChallengeResponse. Timestamp: 0.008335, Cookie: 050137167040035151034228217064023024075111235238121145220037
+[2019.07.22-16.32.01:067][460]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55965
+[2019.07.22-16.32.01:067][460]LogHandshake: SendChallengeAck. InCookie: 157066013194201076182211185175103025093004010215042036236019
+[2019.07.22-16.32.01:067][460]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55965
+[2019.07.22-16.32.01:068][460]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.32.01:068][460]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 07/23/19 00:32:01, [UNetConnection] RemoteAddr: 127.0.0.1:55965, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.32.01:068][460]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55965, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.32.01:068][460]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55966
+[2019.07.22-16.32.01:068][460]LogHandshake: SendChallengeAck. InCookie: 050137167040035151034228217064023024075111235238121145220037
+[2019.07.22-16.32.01:068][460]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55966
+[2019.07.22-16.32.01:068][460]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.07.22-16.32.01:068][460]LogNet: NotifyAcceptedConnection: Name: NewMap, TimeStamp: 07/23/19 00:32:01, [UNetConnection] RemoteAddr: 127.0.0.1:55966, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.32.01:068][460]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55966, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.32.01:069][460]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.32.01:069][460]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.07.22-16.32.01:079][461]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.07.22-16.32.01:079][461]LogNet: Remote platform little endian=1
+[2019.07.22-16.32.01:079][461]LogNet: This platform little endian=1
+[2019.07.22-16.32.01:079][461]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Assets/Maps/UEDPIE_1_NewMap.NewMap: Accepted
+[2019.07.22-16.32.01:079][461]LogNet: Remote platform little endian=1
+[2019.07.22-16.32.01:079][461]LogNet: This platform little endian=1
+[2019.07.22-16.32.01:110][462]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=HOME-PC-63E0F81D4F125F0B623F9F9CB93D28F7 userId: NULL:HOME-PC-63E0F81D4F125F0B623F9F9CB93D28F7 platform: NULL
+[2019.07.22-16.32.01:110][462]LogNet: Login request: /Game/Assets/Maps/NewMap?Name=HOME-PC-58534D1F4750FD88E9DCFE98BEA93018 userId: NULL:HOME-PC-58534D1F4750FD88E9DCFE98BEA93018 platform: NULL
+[2019.07.22-16.32.01:111][462]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.07.22-16.32.01:111][462]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.07.22-16.32.01:150][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.07.22-16.32.01:153][462]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.32.01:154][462]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.32.01:155][462]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_2_NewMap.NewMap up for play (max tick rate 0) at 2019.07.23-00.32.01
+[2019.07.22-16.32.01:155][462]LogWorld: Bringing up level for play took: 0.001027
+[2019.07.22-16.32.01:156][462]LogLoad: Took 0.044495 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.07.22-16.32.01:156][462]LogNet: Welcomed by server (Level: /Game/Assets/Maps/UEDPIE_1_NewMap, Game: /Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C)
+[2019.07.22-16.32.01:172][462]LogLoad: LoadMap: 127.0.0.1:17777//Game/Assets/Maps/UEDPIE_1_NewMap?game=/Game/Blueprints/Game/BP_BaseGamemode.BP_BaseGamemode_C
+[2019.07.22-16.32.01:211][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.07.22-16.32.01:215][462]LogAIModule: Creating AISystem for world NewMap
+[2019.07.22-16.32.01:215][462]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.07.22-16.32.01:217][462]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_3_NewMap.NewMap up for play (max tick rate 0) at 2019.07.23-00.32.01
+[2019.07.22-16.32.01:217][462]LogWorld: Bringing up level for play took: 0.000940
+[2019.07.22-16.32.01:217][462]LogLoad: Took 0.045306 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_1_NewMap)
+[2019.07.22-16.32.01:229][463]LogNet: Client netspeed is 10000
+[2019.07.22-16.32.01:229][463]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=HOME-PC-63E0F81D4F125F0B623F9F9CB93D28F7?SplitscreenCount=1
+[2019.07.22-16.32.01:230][463]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.32.01:231][463]LogNet: Join succeeded: HOME-PC-63E0F81D4F12
+[2019.07.22-16.32.01:231][463]LogNet: Client netspeed is 10000
+[2019.07.22-16.32.01:231][463]LogNet: Join request: /Game/Assets/Maps/NewMap?Name=HOME-PC-58534D1F4750FD88E9DCFE98BEA93018?SplitscreenCount=1
+[2019.07.22-16.32.01:231][463]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.32.01:232][463]LogNet: Join succeeded: HOME-PC-58534D1F4750
+[2019.07.22-16.32.01:268][464]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.32.01:271][464]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.32.01:283][465]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.32.01:284][465]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.07.22-16.32.03:291][584]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.03:292][584]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.07:512][835]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.08:070][869]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.08:347][886]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.08:380][888]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.08:448][892]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.08:762][911]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.08:845][916]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.09:121][933]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.09:185][937]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.09:381][949]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.09:646][965]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.09:872][979]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.09:921][982]LogBlueprintUserMessages: [None] Weapon Attached
+[2019.07.22-16.32.19:936][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.32.19:936][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.32.19:947][580]LogSlate: Window 'Howext Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.22-16.32.19:986][580]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2019.07.22-16.32.19:986][580]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2019.07.22-16.32.19:986][580]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-58534D1F4750FD88E9DCFE98BEA93018, Channels: 14, Time: 2019.07.22-16.32.19
+[2019.07.22-16.32.19:986][580]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-58534D1F4750FD88E9DCFE98BEA93018
+[2019.07.22-16.32.19:986][580]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2019.07.22-16.32.19:987][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.22-16.32.19:997][580]LogSlate: Window 'Howext Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.22-16.32.20:025][580]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2019.07.22-16.32.20:025][580]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2019.07.22-16.32.20:025][580]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-63E0F81D4F125F0B623F9F9CB93D28F7, Channels: 14, Time: 2019.07.22-16.32.20
+[2019.07.22-16.32.20:025][580]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-63E0F81D4F125F0B623F9F9CB93D28F7
+[2019.07.22-16.32.20:025][580]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2019.07.22-16.32.20:031][580]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2019.07.22-16.32.20:031][580]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2019.07.22-16.32.20:031][580]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:55966, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:HOME-PC-58534D1F4750FD88E9DCFE98BEA93018
+[2019.07.22-16.32.20:031][580]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55966, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:HOME-PC-58534D1F4750FD88E9DCFE98BEA93018, Channels: 14, Time: 2019.07.22-16.32.20
+[2019.07.22-16.32.20:031][580]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55966, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_1, Owner: BP_PlayerController_C_1, UniqueId: NULL:HOME-PC-58534D1F4750FD88E9DCFE98BEA93018
+[2019.07.22-16.32.20:032][580]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:55965, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-63E0F81D4F125F0B623F9F9CB93D28F7
+[2019.07.22-16.32.20:032][580]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55965, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-63E0F81D4F125F0B623F9F9CB93D28F7, Channels: 14, Time: 2019.07.22-16.32.20
+[2019.07.22-16.32.20:032][580]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55965, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, UniqueId: NULL:HOME-PC-63E0F81D4F125F0B623F9F9CB93D28F7
+[2019.07.22-16.32.20:032][580]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2019.07.22-16.32.20:032][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.22-16.32.20:033][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Assets/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Assets/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.22-16.32.20:080][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.07.22-16.32.20:102][581]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.07.22-16.32.20:102][581]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.07.22-16.32.20:102][581]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.07.22-16.32.33:871][935]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.32.33:952][935]LogBlueprint: Error: [Compiler BP_WeaponManager] In use pin  Weapon  no longer exists on node  Scroll Weapon . Please refresh node or break links to remove pin.
+[2019.07.22-16.32.33:963][935]LogBlueprint: Error: [Compiler BP_WeaponManager] In use pin  Weapon  no longer exists on node  Scroll Weapon . Please refresh node or break links to remove pin.
+[2019.07.22-16.32.33:998][935]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.07.22-16.32.33:998][935]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.07.22-16.32.34:245][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.07.22-16.32.34:276][935]LogBlueprint: Warning: [Compiler BP_WeaponManager] [1115,26] Compile of BP_WeaponManager failed. 2 Fatal Issue(s) 0 Warning(s) [in 405 ms] (/Game/Blueprints/Components/Player/BP_WeaponManager.BP_WeaponManager)
+[2019.07.22-16.32.36:399][113]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/BP_WeaponManagerAC66FA2040DE696C8B4699AAF3541C21.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Blueprints/Components/Player/BP_WeaponManager.uasset'
+[2019.07.22-16.34.52:103][628]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.34.52:122][628]LogBlueprint: Error: [Compiler BP_WeaponManager] In use pin  Weapon  no longer exists on node  Scroll Weapon . Please refresh node or break links to remove pin.
+[2019.07.22-16.34.52:373][628]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.07.22-16.34.52:409][628]LogBlueprint: Warning: [Compiler BP_WeaponManager] [1253,40] Compile of BP_WeaponManager failed. 1 Fatal Issue(s) 0 Warning(s) [in 306 ms] (/Game/Blueprints/Components/Player/BP_WeaponManager.BP_WeaponManager)
+[2019.07.22-16.35.10:237][266]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.35.10:497][266]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.07.22-16.35.52:709][229]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.35.52:977][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.07.22-16.35.53:942][310]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/BP_WeaponManager2F5BEC1C47853E3C8314F2B95B6BF6B0.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Blueprints/Components/Player/BP_WeaponManager.uasset'
+[2019.07.22-16.37.37:936][374]BlueprintLog: New page: Compile BP_WeaponManager
+[2019.07.22-16.37.38:021][374]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.07.22-16.37.38:021][374]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2019.07.22-16.37.38:261][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2019.07.22-16.37.38:826][413]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/howext/Saved/BP_WeaponManager47749015437E8E7D7254B5A8A35A2428.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/howext/Content/Blueprints/Components/Player/BP_WeaponManager.uasset'
+[2019.07.22-16.37.39:350][459]LogUObjectArray: Warning: Other object in slot
+[2019.07.22-16.37.39:361][459]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.22-16.37.41:111][459]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.750 s
+[2019.07.22-16.37.41:111][459]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.22-16.37.41:111][459]LogOutputDevice: Error: 
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\SKismetInspector.cpp] [Line: 572]
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: Object in KismetInspector is invalid, see TTP 281915
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: Stack: 
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff990a6a7e9 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9908058b3 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff990803372 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa133e2b UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa131c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa5c479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa132571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa134bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa1326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa131c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa134bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa5c9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa132571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa131c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa134bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa1326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa131c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa131c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa5c479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa132571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa134bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa1326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa131c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa134bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa5c9354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa132571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa131c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa134bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa1326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa134bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa1326d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa132571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa131c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa13419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa1350fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa3bd714 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa3be211 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa3e68d2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa3be2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa40a859 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff9aa409a4d UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff6e0497a6a UE4Editor.exe!UnknownFunction []
+[2019.07.22-16.37.41:112][459]LogOutputDevice: Error: [Callstack] 0x00007ff6e04a554c UE4Editor.exe!UnknownFunction []
+[2019.07.22-16.37.41:113][459]LogOutputDevice: Error: [Callstack] 0x00007ff6e04a55ca UE4Editor.exe!UnknownFunction []
+[2019.07.22-16.37.41:113][459]LogOutputDevice: Error: [Callstack] 0x00007ff6e04b316c UE4Editor.exe!UnknownFunction []
+[2019.07.22-16.37.41:113][459]LogOutputDevice: Error: [Callstack] 0x00007ff6e04b5b8e UE4Editor.exe!UnknownFunction []
+[2019.07.22-16.37.41:113][459]LogOutputDevice: Error: [Callstack] 0x00007ff9dc417974 KERNEL32.DLL!UnknownFunction []
+[2019.07.22-16.37.41:113][459]LogOutputDevice: Error: [Callstack] 0x00007ff9dc5da271 ntdll.dll!UnknownFunction []
+[2019.07.22-16.37.41:113][459]LogOutputDevice: Error: 
+[2019.07.22-16.37.41:121][459]LogStats:                SubmitErrorReport -  0.000 s
