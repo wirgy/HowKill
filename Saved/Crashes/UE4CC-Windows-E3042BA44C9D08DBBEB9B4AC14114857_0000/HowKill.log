@@ -1,0 +1,714 @@
+﻿Log file open, 08/25/19 23:36:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HowKill
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.444581
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: AMD Radeon(TM) R9 370 series
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.25-15.36.28:872][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.25-15.36.28:872][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.25-15.36.28:872][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Engine.ini]
+[2019.08.25-15.36.28:872][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.25-15.36.28:872][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.25-15.36.28:872][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Engine.ini]
+[2019.08.25-15.36.28:872][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Engine.ini]
+[2019.08.25-15.36.28:872][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.25-15.36.28:872][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.25-15.36.28:872][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.25-15.36.28:872][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Engine.ini]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.25-15.36.28:873][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Engine.ini]
+[2019.08.25-15.36.28:873][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Engine.ini]
+[2019.08.25-15.36.28:918][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.25-15.36.28:918][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.25-15.36.28:919][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.25-15.36.28:928][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.25-15.36.28:928][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.25-15.36.29:001][  0]LogHAL: Display: Platform has ~ 8 GB [8530186240 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.25-15.36.29:006][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.25-15.36.29:006][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.25-15.36.29:007][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.08.25-15.36.29:007][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Scalability.ini]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.08.25-15.36.29:008][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.25-15.36.29:027][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.25-15.36.29:027][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.25-15.36.29:027][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Config/Windows/Engine.ini]
+[2019.08.25-15.36.29:071][  0]LogInit: Computer: HOME-PC
+[2019.08.25-15.36.29:071][  0]LogInit: User: WIRGY
+[2019.08.25-15.36.29:071][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.25-15.36.29:071][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.25-15.36.29:072][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.08.25-15.36.29:072][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.25-15.36.29:072][  0]LogMemory: Process Physical Memory: 97.78 MB used, 97.79 MB peak
+[2019.08.25-15.36.29:072][  0]LogMemory: Process Virtual Memory: 88.74 MB used, 88.74 MB peak
+[2019.08.25-15.36.29:072][  0]LogMemory: Physical Memory: 1968.58 MB used,  6166.44 MB free, 8135.02 MB total
+[2019.08.25-15.36.29:072][  0]LogMemory: Virtual Memory: 4656.45 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.08.25-15.36.29:686][  0]LogInit: Using OS detected language (ru-RU).
+[2019.08.25-15.36.29:686][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.08.25-15.36.29:716][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.08.25-15.36.29:718][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.08.25-15.36.29:718][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.08.25-15.36.29:718][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.08.25-15.36.29:719][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.08.25-15.36.29:719][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.08.25-15.36.29:720][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.08.25-15.36.29:720][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.08.25-15.36.29:798][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.25-15.36.30:240][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.25-15.36.30:240][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.25-15.36.32:211][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.25-15.36.32:211][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.25-15.36.32:269][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R9 370 series' (Feature Level 11_0)
+[2019.08.25-15.36.32:269][  0]LogD3D11RHI:       2028/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.08.25-15.36.32:320][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.25-15.36.32:320][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.25-15.36.32:320][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.25-15.36.32:324][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.25-15.36.32:324][  0]LogD3D11RHI:     GPU DeviceId: 0x6819 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.25-15.36.32:324][  0]LogWindows: EnumDisplayDevices:
+[2019.08.25-15.36.32:324][  0]LogWindows:    0. 'AMD Radeon(TM) R9 370 series' (P:1 D:1)
+[2019.08.25-15.36.32:325][  0]LogWindows:    1. 'AMD Radeon(TM) R9 370 series' (P:0 D:1)
+[2019.08.25-15.36.32:325][  0]LogWindows:    2. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.08.25-15.36.32:325][  0]LogWindows:    3. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.08.25-15.36.32:326][  0]LogWindows:    4. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.08.25-15.36.32:326][  0]LogWindows:    5. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.08.25-15.36.32:326][  0]LogWindows:    6. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.08.25-15.36.32:327][  0]LogWindows:    7. 'AMD Radeon(TM) R9 370 series' (P:0 D:0)
+[2019.08.25-15.36.32:327][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.08.25-15.36.32:327][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R9 370 series
+[2019.08.25-15.36.32:327][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.7.5 (internal:26.20.13001.25001, unified:26.20.13001.25001)
+[2019.08.25-15.36.32:327][  0]LogD3D11RHI:      Driver Date: 7-30-2019
+[2019.08.25-15.36.32:327][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2019.08.25-15.36.32:415][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.25-15.36.32:556][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.25-15.36.32:562][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.25-15.36.32:562][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.25-15.36.32:596][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.08.25-15.36.33:889][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.25-15.36.33:915][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.25-15.36.33:938][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.25-15.36.33:966][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.25-15.36.34:036][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.25-15.36.34:075][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.25-15.36.34:097][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.25-15.36.34:120][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.25-15.36.34:136][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.25-15.36.34:244][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.25-15.36.34:260][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.25-15.36.34:368][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.25-15.36.34:368][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.25-15.36.34:403][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.25-15.36.34:403][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.25-15.36.34:434][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.25-15.36.34:463][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.25-15.36.34:486][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.25-15.36.34:516][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.25-15.36.34:581][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.25-15.36.34:581][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.25-15.36.34:581][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.25-15.36.34:847][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.25-15.36.36:104][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Intermediate/Shaders/WorkingDirectory/7024/).
+[2019.08.25-15.36.36:104][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Windows/Temp/UnrealShaderWorkingDir/925BFCBE43DA65897A0747A6C136FE21/'.
+[2019.08.25-15.36.36:193][  0]LogXGEController: Cleaning working directory: C:/Windows/Temp/UnrealXGEWorkingDir/
+[2019.08.25-15.36.36:241][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.08.25-15.36.38:110][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.25-15.36.38:652][  0]LogDerivedDataCache: Loaded boot cache 0.50s 71MB C:/Users/WIRGY/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.25-15.36.38:652][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/WIRGY/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.25-15.36.38:652][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/WIRGY/Documents/GitHub/HowKill/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.25-15.36.38:652][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.25-15.36.38:652][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/WIRGY/Documents/GitHub/HowKill/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.25-15.36.38:652][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.25-15.36.38:755][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.25-15.36.38:755][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.25-15.36.38:755][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.25-15.36.38:792][  0]LogDerivedDataCache: Using Local data cache path C:/Users/WIRGY/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.25-15.36.38:792][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.25-15.36.38:792][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.25-15.36.38:864][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.25-15.36.38:940][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.25-15.36.39:024][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.25-15.36.40:235][  0]LogAssetRegistry: FAssetRegistry took 0.0373 seconds to start up
+[2019.08.25-15.36.42:982][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.25-15.36.45:175][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.25-15.36.45:175][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.25-15.36.45:175][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.25-15.36.45:175][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.25-15.36.45:175][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.25-15.36.45:613][  0]LogNetVersion: HowKill 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2385561254)
+[2019.08.25-15.36.49:484][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.083560 seconds
+[2019.08.25-15.36.49:502][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.25-15.36.49:502][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.25-15.36.49:503][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.25-15.37.05:608][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.25-15.37.05:630][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.25-15.37.06:184][  0]SourceControl: Source control is disabled
+[2019.08.25-15.37.06:197][  0]SourceControl: Source control is disabled
+[2019.08.25-15.37.06:312][  0]SourceControl: Source control is disabled
+[2019.08.25-15.37.06:324][  0]SourceControl: Source control is disabled
+[2019.08.25-15.37.07:065][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.25-15.37.07:485][  0]LogOcInput: OculusInput pre-init called
+[2019.08.25-15.37.08:924][  0]LogEngine: Initializing Engine...
+[2019.08.25-15.37.08:945][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.25-15.37.08:959][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.013 s
+[2019.08.25-15.37.09:627][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.25-15.37.09:946][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.25-15.37.10:055][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.25-15.37.10:098][  0]LogInit: FAudioDevice initialized.
+[2019.08.25-15.37.10:098][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.25-15.37.10:289][  0]LogDerivedDataCache: Saved boot cache 0.19s 71MB C:/Users/WIRGY/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.25-15.37.10:297][  0]LogInit: Texture streaming: Enabled
+[2019.08.25-15.37.10:470][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.25-15.37.10:471][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={B2BE2D34-4856-F9E6-58A4-4A87EDCF7D89}
+[2019.08.25-15.37.10:803][  0]LogInit: Transaction tracking system initialized
+[2019.08.25-15.37.11:689][  0]BlueprintLog: New page: Editor Load
+[2019.08.25-15.37.14:337][  0]LocalizationService: Localization service is disabled
+[2019.08.25-15.37.19:226][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIRGY/Documents/GitHub/HowKill/Content/' took 0.02s
+[2019.08.25-15.37.19:226][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.25-15.37.19:226][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.25-15.37.28:175][  0]SourceControl: Source control is disabled
+[2019.08.25-15.37.28:959][  0]LogSlate: Took 0.018083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.25-15.38.01:588][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.08.25-15.38.01:600][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.25-15.38.01:603][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.25-15.38.02:601][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.08.25-15.38.02:602][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.25-15.38.02:605][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.25-15.38.02:724][  0]Cmd: MAP LOAD FILE="../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/Assets/Maps/M_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.25-15.38.02:725][  0]LightingResults: New page: Lighting Build
+[2019.08.25-15.38.02:857][  0]MapCheck: New page: Map Check
+[2019.08.25-15.38.02:857][  0]LightingResults: New page: Lighting Build
+[2019.08.25-15.38.03:078][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.08.25-15.38.06:951][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/Weapons/Textures/MagGun_Decals.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.08.25-15.38.06:951][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/Weapons/Textures/MagGun_Decals.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.08.25-15.38.06:952][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/Weapons/Textures/MagGun_Decals.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.08.25-15.38.06:952][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/Weapons/Textures/MagGun_Decals.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.08.25-15.38.07:858][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/Weapons/Textures/MagGun_Decals.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.08.25-15.38.07:858][  0]LogLinker: Warning: The file '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/Weapons/Textures/MagGun_Decals.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.08.25-15.38.08:498][  0]LogMaterial: Display: Missing cached shader map for material HeroTPP, compiling. 
+[2019.08.25-15.38.08:616][  0]LogMaterial: Warning: C:\Users\WIRGY\Documents\GitHub\HowKill\Content\Assets\Characters\Materials\HeroTPP.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.25-15.38.08:616][  0]LogMaterial: 	Function ML_Base: (Node TextureSample) Texture Sample> Missing input texture
+[2019.08.25-15.38.08:616][  0]LogMaterial: 	Function ML_Base: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.25-15.38.08:616][  0]LogMaterial: 	Function ML_Rubber_dark: (Node TextureSample) Texture Sample> Missing input texture
+[2019.08.25-15.38.08:616][  0]LogMaterial: 	Function ML_Rubber_dark: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.25-15.38.09:392][  0]LogMaterial: Display: Missing cached shader map for material MagGun_MatA, compiling. 
+[2019.08.25-15.38.09:398][  0]LogMaterial: Warning: C:\Users\WIRGY\Documents\GitHub\HowKill\Content\Weapons\Materials\MagGun_MatA.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.25-15.38.09:398][  0]LogMaterial: 	(Node TextureObject) Texture Object> Requires valid texture
+[2019.08.25-15.38.09:398][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.25-15.38.09:398][  0]LogMaterial: 	Function ML_Metal_Copper: (Node TextureSample) BaseColor in RGB Roughness in Alpha> Missing input texture
+[2019.08.25-15.38.09:398][  0]LogMaterial: 	Function ML_Metal_Copper: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.25-15.38.09:398][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.25-15.38.09:398][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.25-15.38.09:398][  0]LogMaterial: 	Function ML_Metal_Copper: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.25-15.38.09:398][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.25-15.38.09:801][  0]LogMaterial: Display: Missing cached shader map for material MagGun_SightLens_Mat, compiling. 
+[2019.08.25-15.38.09:802][  0]LogMaterial: Warning: C:\Users\WIRGY\Documents\GitHub\HowKill\Content\Weapons\Materials\MagGun_SightLens_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.25-15.38.09:802][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.25-15.38.09:821][  0]LogMaterial: Display: Missing cached shader map for material MagGun_MatB, compiling. 
+[2019.08.25-15.38.09:828][  0]LogMaterial: Warning: C:\Users\WIRGY\Documents\GitHub\HowKill\Content\Weapons\Materials\MagGun_MatB.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	(Node TextureObject) Texture Object> Requires valid texture
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	Function MatLayerBlend_Emissive: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	Function ML_Metal_Copper: (Node TextureSample) BaseColor in RGB Roughness in Alpha> Missing input texture
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	Function ML_Metal_Copper: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	Function ML_Metal_Copper: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.25-15.38.09:828][  0]LogMaterial: 	Function MatLayerBlend_Decal: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.25-15.38.10:027][  0]LogAIModule: Creating AISystem for world M_TestMap
+[2019.08.25-15.38.10:463][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.25-15.38.10:550][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.08.25-15.38.10:551][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.25-15.38.10:551][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,17ms to complete.
+[2019.08.25-15.38.10:551][  0]LogFileHelpers: Loading map 'M_TestMap' took 7.842
+[2019.08.25-15.38.11:466][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-15.38.11:474][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-15.38.11:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-15.38.11:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.25-15.38.11:575][  0]LogCollectionManager: Loaded 0 collections in 0.001954 seconds
+[2019.08.25-15.38.11:684][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIRGY/Documents/GitHub/HowKill/Saved/Collections/' took 0.01s
+[2019.08.25-15.38.11:684][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIRGY/Documents/GitHub/HowKill/Content/Developers/WIRGY/Collections/' took 0.01s
+[2019.08.25-15.38.11:684][  0]LogFileCache: Scanning file cache for directory 'C:/Users/WIRGY/Documents/GitHub/HowKill/Content/Collections/' took 0.00s
+[2019.08.25-15.38.11:684][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.25-15.38.11:696][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2732 classes and 659 folders.
+[2019.08.25-15.38.11:795][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.25-15.38.11:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:931][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:936][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:937][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.11:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.25-15.38.12:725][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.25-15.38.12:775][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.25-15.38.13:402][  0]LogSlate: Took 0.008798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.25-15.38.13:415][  0]LogSlate: Took 0.007519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.25-15.38.13:756][  0]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 1 (Frame:1).
+[2019.08.25-15.38.14:173][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.25-15.38.14:173][  0]LogLoad: (Engine Initialization) Total time: 125.76 seconds
+[2019.08.25-15.38.14:174][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.25-15.38.14:392][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.08.25-15.38.14:490][  0]LogSlate: Took 0.013855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.25-15.38.14:543][  1]LogAssetRegistry: Asset discovery search completed in 94.3311 seconds
+[2019.08.25-15.38.14:554][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.25-15.38.14:554][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2019.08.25-15.38.15:209][ 55]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.25-15.38.19:873][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.25-15.38.27:077][323]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD/Minimap/W_HudMinimap_Mark-Player.W_HudMinimap_Mark-Player
+[2019.08.25-15.38.27:679][323]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.08.25-15.38.29:212][323]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.08.25-15.38.29:915][323]LogSlate: Took 0.006568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.25-15.38.33:516][682]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD/Minimap/W_HudMinimap_Canvas.W_HudMinimap_Canvas
+[2019.08.25-15.38.36:148][817]LogSlate: Took 0.032676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.25-15.39.43:485][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Tools/Minimap/BP_MinimapHelper.BP_MinimapHelper
+[2019.08.25-15.41.55:633][658]LogSlate: Took 0.013223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.25-15.43.16:863][854]BlueprintLog: New page: Compile W_HudMinimap_Canvas
+[2019.08.25-15.43.16:949][854]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2019.08.25-15.43.17:596][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/Minimap/W_HudMinimap_Canvas" FILE="../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset" SILENT=true
+[2019.08.25-15.43.17:715][909]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Saved/W_HudMinimap_Canvas2EC039664D34DC0CED8643A2A6722E52.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset'
+[2019.08.25-15.44.17:091][200]BlueprintLog: New page: Compile W_HudMinimap_Canvas
+[2019.08.25-15.44.17:144][200]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2019.08.25-15.44.17:701][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/Minimap/W_HudMinimap_Canvas" FILE="../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset" SILENT=true
+[2019.08.25-15.44.17:726][245]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Saved/W_HudMinimap_CanvasF3CE10B9422DE5E6269DD892E50A6330.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset'
+[2019.08.25-15.44.22:361][654]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Saved/W_HudMinimap_Mark-Player8C51CE8846B7919EC41B6CADCCA70175.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Mark-Player.uasset'
+[2019.08.25-15.47.03:873][331]BlueprintLog: New page: Compile W_HudMinimap_Canvas
+[2019.08.25-15.47.03:926][331]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.08.25-15.47.04:490][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/Minimap/W_HudMinimap_Canvas" FILE="../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset" SILENT=true
+[2019.08.25-15.47.04:519][376]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Saved/W_HudMinimap_Canvas1C6A642E40488842DCDDF8AAD999B42B.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset'
+[2019.08.25-15.47.33:263][ 26]BlueprintLog: New page: Compile W_HudMinimap_Canvas
+[2019.08.25-15.47.33:316][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2019.08.25-15.47.33:967][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/Minimap/W_HudMinimap_Canvas" FILE="../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset" SILENT=true
+[2019.08.25-15.47.33:994][ 73]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Saved/W_HudMinimap_CanvasAEF1D4454E917886A7E56482591B929D.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset'
+[2019.08.25-15.48.38:946][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.08.25-15.48.38:947][371]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Maps/M_TestMap' took 0.042
+[2019.08.25-15.48.38:998][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/HUD/Minimap/W_HudMinimap_Canvas] ([1] browsable assets)...
+[2019.08.25-15.48.38:998][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HUD/Minimap/W_HudMinimap_Canvas]
+[2019.08.25-15.48.39:027][371]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Saved/W_HudMinimap_Canvas_Auto12ACCD37B4BB7752D3BC39880AD75EBE7.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Saved/Autosaves/Game/UI/HUD/Minimap/W_HudMinimap_Canvas_Auto1.uasset'
+[2019.08.25-15.48.39:028][371]LogFileHelpers: Auto-saving content packages took 0.080
+[2019.08.25-15.49.32:905][531]BlueprintLog: New page: Compile W_HudMinimap_Canvas
+[2019.08.25-15.49.32:953][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.08.25-15.49.33:414][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/Minimap/W_HudMinimap_Canvas" FILE="../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset" SILENT=true
+[2019.08.25-15.49.33:441][570]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Saved/W_HudMinimap_Canvas17FA732245D313ADC4E48F86B54D5D7E.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/Minimap/W_HudMinimap_Canvas.uasset'
+[2019.08.25-15.49.43:700][625]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD/W_HUD.W_HUD
+[2019.08.25-15.51.41:640][379]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/HUD/Minimap/W_HudMinimap.W_HudMinimap
+[2019.08.25-15.52.33:448][719]BlueprintLog: New page: Compile W_HUD
+[2019.08.25-15.52.33:506][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.08.25-15.52.34:091][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/W_HUD" FILE="../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/W_HUD.uasset" SILENT=true
+[2019.08.25-15.52.34:100][757]LogSavePackage: Moving '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Saved/W_HUDE5EC7F8D4A945069BE90D78EAAB6FEBD.tmp' to '../../../../../../Users/WIRGY/Documents/GitHub/HowKill/Content/UI/HUD/W_HUD.uasset'
+[2019.08.25-15.53.17:126][741]BlueprintLog: New page: Compile W_HudMinimap
+[2019.08.25-15.53.17:522][741]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.25-15.53.18:688][741]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.166 s
+[2019.08.25-15.53.18:688][741]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.25-15.53.18:688][741]LogOutputDevice: Error: 
+[2019.08.25-15.53.18:688][741]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 43]
+[2019.08.25-15.53.18:688][741]LogOutputDevice: Error: SObjectWidget for 'W_HudMinimap_Canvas_C /Engine/Transient.World_7:W_HUD_C_8.WidgetTree_0.W_HudMinimap.WidgetTree_1.W_HudMinimap_Canvas' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.08.25-15.53.18:688][741]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.08.25-15.53.18:688][741]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: Stack: 
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbdb5dc3e UE4Editor-UMG.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbd9e26ea UE4Editor-UMG.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbfb9960a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc00d084e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc00c30a8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc00c6f29 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbda97c8b UE4Editor-UMG.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc0b50dcb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc0b2e3ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc0adcded UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc0adc3ca UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbca42295 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbec05644 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbcb2dde6 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbcb49188 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbff2180a UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbfff9122 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbffdaa84 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc0092a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbfee4021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbff60301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbff4aaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbbff40414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc046b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc045ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc046d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc045c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffc0eefca66 USER32.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffc0eefc582 USER32.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffbc046e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ff6bc215d3e UE4Editor.exe!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ff6bc22554c UE4Editor.exe!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ff6bc2255ca UE4Editor.exe!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ff6bc23316c UE4Editor.exe!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ff6bc235b8e UE4Editor.exe!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffc111f7974 KERNEL32.DLL!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: [Callstack] 0x00007ffc11b6a271 ntdll.dll!UnknownFunction []
+[2019.08.25-15.53.18:689][741]LogOutputDevice: Error: 
+[2019.08.25-15.53.18:690][741]LogStats:                SubmitErrorReport -  0.000 s
